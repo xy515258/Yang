@@ -1,0 +1,8276 @@
+ 
+step =1
+ktemp0_1_max = 0
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0
+ 
+step =2
+ktemp0_1_max = 0
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0
+ 
+step =3
+ktemp0_1_max = 1.01565e-07
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.67806e-10
+ 
+step =4
+ktemp0_1_max = 4.5869e-07
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.57746e-09
+ 
+step =5
+ktemp0_1_max = 1.31115e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.68075e-09
+ 
+step =6
+ktemp0_1_max = 2.45249e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.85215e-08
+ 
+step =7
+ktemp0_1_max = 3.2371e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.50325e-08
+ 
+step =8
+ktemp0_1_max = 4.62627e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.90515e-08
+ 
+step =9
+ktemp0_1_max = 6.08147e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.09824e-08
+ 
+step =10
+ktemp0_1_max = 7.41824e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.72345e-08
+ 
+step =11
+ktemp0_1_max = 8.82042e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.05842e-07
+ 
+step =12
+ktemp0_1_max = 1.10544e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.33736e-07
+ 
+step =13
+ktemp0_1_max = 1.27833e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.51441e-07
+ 
+step =14
+ktemp0_1_max = 1.45365e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.69811e-07
+ 
+step =15
+ktemp0_1_max = 1.61831e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.88777e-07
+ 
+step =16
+ktemp0_1_max = 1.75753e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.23737e-07
+ 
+step =17
+ktemp0_1_max = 1.83914e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.7998e-07
+ 
+step =18
+ktemp0_1_max = 1.90704e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.07642e-07
+ 
+step =19
+ktemp0_1_max = 1.94736e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.25859e-07
+ 
+step =20
+ktemp0_1_max = 1.94147e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.33161e-07
+ 
+step =21
+ktemp0_1_max = 1.87631e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.6224e-07
+ 
+step =22
+ktemp0_1_max = 1.79763e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.40402e-07
+ 
+step =23
+ktemp0_1_max = 1.67293e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.39356e-07
+ 
+step =24
+ktemp0_1_max = 1.50474e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.09164e-07
+ 
+step =25
+ktemp0_1_max = 1.28593e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.46641e-07
+ 
+step =26
+ktemp0_1_max = 1.03592e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.51424e-07
+ 
+step =27
+ktemp0_1_max = 7.48361e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.7042e-07
+ 
+step =28
+ktemp0_1_max = 4.36581e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.68432e-07
+ 
+step =29
+ktemp0_1_max = 9.95526e-07
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.47102e-07
+ 
+step =30
+ktemp0_1_max = 2.61939e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.59053e-07
+ 
+step =31
+ktemp0_1_max = 6.44001e-06
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.53478e-07
+ 
+step =32
+ktemp0_1_max = 1.0355e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.05612e-07
+ 
+step =33
+ktemp0_1_max = 1.44276e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.00684e-06
+ 
+step =34
+ktemp0_1_max = 1.85655e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.17577e-07
+ 
+step =35
+ktemp0_1_max = 2.23816e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.51028e-07
+ 
+step =36
+ktemp0_1_max = 2.57366e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.08697e-07
+ 
+step =37
+ktemp0_1_max = 2.88282e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.93742e-07
+ 
+step =38
+ktemp0_1_max = 3.3728e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.79706e-07
+ 
+step =39
+ktemp0_1_max = 3.89078e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.01257e-06
+ 
+step =40
+ktemp0_1_max = 4.4395e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.75601e-07
+ 
+step =41
+ktemp0_1_max = 5.02431e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.82144e-07
+ 
+step =42
+ktemp0_1_max = 5.63478e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.00721e-06
+ 
+step =43
+ktemp0_1_max = 6.30128e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.05835e-06
+ 
+step =44
+ktemp0_1_max = 6.96412e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.02252e-06
+ 
+step =45
+ktemp0_1_max = 7.63717e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.97223e-07
+ 
+step =46
+ktemp0_1_max = 8.35508e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.10817e-06
+ 
+step =47
+ktemp0_1_max = 9.05809e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.17582e-06
+ 
+step =48
+ktemp0_1_max = 9.69073e-05
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.09539e-06
+ 
+step =49
+ktemp0_1_max = 0.000103284
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.13338e-06
+ 
+step =50
+ktemp0_1_max = 0.000112884
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.19275e-06
+ 
+step =51
+ktemp0_1_max = 0.000123187
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.4167e-06
+ 
+step =52
+ktemp0_1_max = 0.000132904
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.55463e-06
+ 
+step =53
+ktemp0_1_max = 0.000142077
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.62432e-06
+ 
+step =54
+ktemp0_1_max = 0.000153037
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.47291e-06
+ 
+step =55
+ktemp0_1_max = 0.000164356
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.44375e-06
+ 
+step =56
+ktemp0_1_max = 0.000174056
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.5849e-06
+ 
+step =57
+ktemp0_1_max = 0.000183995
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.36762e-06
+ 
+step =58
+ktemp0_1_max = 0.000192855
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.45617e-06
+ 
+step =59
+ktemp0_1_max = 0.000200892
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.55178e-06
+ 
+step =60
+ktemp0_1_max = 0.000207958
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.54445e-06
+ 
+step =61
+ktemp0_1_max = 0.00021402
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.4458e-06
+ 
+step =62
+ktemp0_1_max = 0.000219301
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.45451e-06
+ 
+step =63
+ktemp0_1_max = 0.000228588
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.72336e-06
+ 
+step =64
+ktemp0_1_max = 0.000239757
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.87223e-06
+ 
+step =65
+ktemp0_1_max = 0.000252314
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.80993e-06
+ 
+step =66
+ktemp0_1_max = 0.000263798
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.63722e-06
+ 
+step =67
+ktemp0_1_max = 0.000275023
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.67708e-06
+ 
+step =68
+ktemp0_1_max = 0.000285102
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.71109e-06
+ 
+step =69
+ktemp0_1_max = 0.000295119
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.73297e-06
+ 
+step =70
+ktemp0_1_max = 0.00030509
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.71693e-06
+ 
+step =71
+ktemp0_1_max = 0.000313614
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.87233e-06
+ 
+step =72
+ktemp0_1_max = 0.000321595
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.86616e-06
+ 
+step =73
+ktemp0_1_max = 0.00032865
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.74535e-06
+ 
+step =74
+ktemp0_1_max = 0.00033396
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.7862e-06
+ 
+step =75
+ktemp0_1_max = 0.000337769
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.87092e-06
+ 
+step =76
+ktemp0_1_max = 0.000347211
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.98762e-06
+ 
+step =77
+ktemp0_1_max = 0.00035849
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.07621e-06
+ 
+step =78
+ktemp0_1_max = 0.000369731
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.9608e-06
+ 
+step =79
+ktemp0_1_max = 0.000381484
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.92693e-06
+ 
+step =80
+ktemp0_1_max = 0.000393575
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.02182e-06
+ 
+step =81
+ktemp0_1_max = 0.000408511
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.13393e-06
+ 
+step =82
+ktemp0_1_max = 0.000424909
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.19112e-06
+ 
+step =83
+ktemp0_1_max = 0.000442272
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.25301e-06
+ 
+step =84
+ktemp0_1_max = 0.000460198
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.48666e-06
+ 
+step =85
+ktemp0_1_max = 0.000478947
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.43911e-06
+ 
+step =86
+ktemp0_1_max = 0.000506071
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.33203e-06
+ 
+step =87
+ktemp0_1_max = 0.000533958
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.28787e-06
+ 
+step =88
+ktemp0_1_max = 0.000562498
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.18147e-06
+ 
+step =89
+ktemp0_1_max = 0.000587461
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.45704e-06
+ 
+step =90
+ktemp0_1_max = 0.000614103
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.70151e-06
+ 
+step =91
+ktemp0_1_max = 0.000640641
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.59829e-06
+ 
+step =92
+ktemp0_1_max = 0.000667346
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.51593e-06
+ 
+step =93
+ktemp0_1_max = 0.000692471
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.68197e-06
+ 
+step =94
+ktemp0_1_max = 0.000715205
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.58479e-06
+ 
+step =95
+ktemp0_1_max = 0.000736598
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.68724e-06
+ 
+step =96
+ktemp0_1_max = 0.000758369
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.92163e-06
+ 
+step =97
+ktemp0_1_max = 0.000781964
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.14251e-06
+ 
+step =98
+ktemp0_1_max = 0.000803253
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.98804e-06
+ 
+step =99
+ktemp0_1_max = 0.000823116
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.02754e-06
+ 
+step =100
+ktemp0_1_max = 0.000840194
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.95308e-06
+ 
+step =101
+ktemp0_1_max = 0.000856072
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.03105e-06
+ 
+step =102
+ktemp0_1_max = 0.000869571
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.0497e-06
+ 
+step =103
+ktemp0_1_max = 0.000881957
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.12441e-06
+ 
+step =104
+ktemp0_1_max = 0.000894024
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.21169e-06
+ 
+step =105
+ktemp0_1_max = 0.000906118
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.99797e-06
+ 
+step =106
+ktemp0_1_max = 0.000923371
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.95758e-06
+ 
+step =107
+ktemp0_1_max = 0.000949429
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.03201e-06
+ 
+step =108
+ktemp0_1_max = 0.000975596
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.19598e-06
+ 
+step =109
+ktemp0_1_max = 0.0010037
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.17838e-06
+ 
+step =110
+ktemp0_1_max = 0.00103228
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.15902e-06
+ 
+step =111
+ktemp0_1_max = 0.00105919
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.48092e-06
+ 
+step =112
+ktemp0_1_max = 0.00108542
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.40723e-06
+ 
+step =113
+ktemp0_1_max = 0.00111245
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.16633e-06
+ 
+step =114
+ktemp0_1_max = 0.00113921
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.40314e-06
+ 
+step =115
+ktemp0_1_max = 0.00116379
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.30512e-06
+ 
+step =116
+ktemp0_1_max = 0.00118716
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.56882e-06
+ 
+step =117
+ktemp0_1_max = 0.00121075
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.96967e-06
+ 
+step =118
+ktemp0_1_max = 0.00123341
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.15294e-06
+ 
+step =119
+ktemp0_1_max = 0.00125603
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.09688e-06
+ 
+step =120
+ktemp0_1_max = 0.00127768
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.64545e-06
+ 
+step =121
+ktemp0_1_max = 0.00129806
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.14963e-06
+ 
+step =122
+ktemp0_1_max = 0.00131852
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.25136e-06
+ 
+step =123
+ktemp0_1_max = 0.00133618
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.62304e-06
+ 
+step =124
+ktemp0_1_max = 0.00135434
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.97569e-06
+ 
+step =125
+ktemp0_1_max = 0.00137315
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.90499e-06
+ 
+step =126
+ktemp0_1_max = 0.00138854
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.9485e-06
+ 
+step =127
+ktemp0_1_max = 0.00140177
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.83493e-06
+ 
+step =128
+ktemp0_1_max = 0.00141213
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.79962e-06
+ 
+step =129
+ktemp0_1_max = 0.00142282
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.11583e-06
+ 
+step =130
+ktemp0_1_max = 0.00143338
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.70487e-06
+ 
+step =131
+ktemp0_1_max = 0.00144338
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.82678e-06
+ 
+step =132
+ktemp0_1_max = 0.00145027
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.55559e-06
+ 
+step =133
+ktemp0_1_max = 0.00145877
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.29373e-06
+ 
+step =134
+ktemp0_1_max = 0.00146565
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.96865e-06
+ 
+step =135
+ktemp0_1_max = 0.00147303
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.98711e-06
+ 
+step =136
+ktemp0_1_max = 0.00148004
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.45515e-06
+ 
+step =137
+ktemp0_1_max = 0.00148688
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.07421e-06
+ 
+step =138
+ktemp0_1_max = 0.00149232
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.96917e-06
+ 
+step =139
+ktemp0_1_max = 0.00149842
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.02897e-06
+ 
+step =140
+ktemp0_1_max = 0.00150322
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.77237e-06
+ 
+step =141
+ktemp0_1_max = 0.00150805
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.72927e-06
+ 
+step =142
+ktemp0_1_max = 0.00151092
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.05381e-06
+ 
+step =143
+ktemp0_1_max = 0.00151143
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.28176e-06
+ 
+step =144
+ktemp0_1_max = 0.00151341
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.62536e-06
+ 
+step =145
+ktemp0_1_max = 0.00151583
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.46402e-06
+ 
+step =146
+ktemp0_1_max = 0.00151969
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.87973e-06
+ 
+step =147
+ktemp0_1_max = 0.00152337
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.57628e-06
+ 
+step =148
+ktemp0_1_max = 0.00152648
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.7443e-06
+ 
+step =149
+ktemp0_1_max = 0.00152946
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.08592e-06
+ 
+step =150
+ktemp0_1_max = 0.00155828
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.49569e-06
+ 
+step =151
+ktemp0_1_max = 0.0015876
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.62363e-06
+ 
+step =152
+ktemp0_1_max = 0.00161712
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.52845e-06
+ 
+step =153
+ktemp0_1_max = 0.00164558
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.42619e-06
+ 
+step =154
+ktemp0_1_max = 0.00167292
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.64738e-06
+ 
+step =155
+ktemp0_1_max = 0.00170192
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.74653e-06
+ 
+step =156
+ktemp0_1_max = 0.00173105
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.60032e-06
+ 
+step =157
+ktemp0_1_max = 0.00175942
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.4432e-06
+ 
+step =158
+ktemp0_1_max = 0.0017831
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.33338e-06
+ 
+step =159
+ktemp0_1_max = 0.00180401
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.44612e-06
+ 
+step =160
+ktemp0_1_max = 0.00182357
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.70827e-06
+ 
+step =161
+ktemp0_1_max = 0.00184131
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.7442e-06
+ 
+step =162
+ktemp0_1_max = 0.00186032
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.5406e-06
+ 
+step =163
+ktemp0_1_max = 0.001879
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.81396e-06
+ 
+step =164
+ktemp0_1_max = 0.00189722
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.45595e-06
+ 
+step =165
+ktemp0_1_max = 0.00191209
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.29325e-06
+ 
+step =166
+ktemp0_1_max = 0.00192376
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.66784e-06
+ 
+step =167
+ktemp0_1_max = 0.00193856
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.69512e-06
+ 
+step =168
+ktemp0_1_max = 0.00194965
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.41444e-06
+ 
+step =169
+ktemp0_1_max = 0.00195668
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.24297e-06
+ 
+step =170
+ktemp0_1_max = 0.00196393
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.27137e-06
+ 
+step =171
+ktemp0_1_max = 0.00197107
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.72297e-06
+ 
+step =172
+ktemp0_1_max = 0.00197769
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.54441e-06
+ 
+step =173
+ktemp0_1_max = 0.00198297
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.29036e-06
+ 
+step =174
+ktemp0_1_max = 0.00199817
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.02364e-06
+ 
+step =175
+ktemp0_1_max = 0.00202708
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.41156e-06
+ 
+step =176
+ktemp0_1_max = 0.00205876
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.74053e-06
+ 
+step =177
+ktemp0_1_max = 0.00208975
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.50809e-06
+ 
+step =178
+ktemp0_1_max = 0.00212007
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.89339e-06
+ 
+step =179
+ktemp0_1_max = 0.00215066
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.74044e-06
+ 
+step =180
+ktemp0_1_max = 0.00218392
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.57962e-06
+ 
+step =181
+ktemp0_1_max = 0.00221832
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.47611e-06
+ 
+step =182
+ktemp0_1_max = 0.00225186
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.3957e-06
+ 
+step =183
+ktemp0_1_max = 0.00228607
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.16487e-06
+ 
+step =184
+ktemp0_1_max = 0.00231992
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.77641e-06
+ 
+step =185
+ktemp0_1_max = 0.00235127
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.55433e-06
+ 
+step =186
+ktemp0_1_max = 0.00237979
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.62016e-06
+ 
+step =187
+ktemp0_1_max = 0.00240576
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.37332e-06
+ 
+step =188
+ktemp0_1_max = 0.00243316
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.25562e-06
+ 
+step =189
+ktemp0_1_max = 0.00246283
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.61077e-06
+ 
+step =190
+ktemp0_1_max = 0.0024912
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.54572e-06
+ 
+step =191
+ktemp0_1_max = 0.00251847
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.05289e-06
+ 
+step =192
+ktemp0_1_max = 0.00254619
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.18569e-06
+ 
+step =193
+ktemp0_1_max = 0.00257477
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.64775e-06
+ 
+step =194
+ktemp0_1_max = 0.00260196
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.07598e-06
+ 
+step =195
+ktemp0_1_max = 0.00262674
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.14478e-06
+ 
+step =196
+ktemp0_1_max = 0.00265257
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.88883e-06
+ 
+step =197
+ktemp0_1_max = 0.00268108
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.90458e-06
+ 
+step =198
+ktemp0_1_max = 0.00270753
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.27957e-06
+ 
+step =199
+ktemp0_1_max = 0.00273716
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.06949e-06
+ 
+step =200
+ktemp0_1_max = 0.00276643
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.41951e-06
+ 
+step =201
+ktemp0_1_max = 0.00279278
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.24754e-06
+ 
+step =202
+ktemp0_1_max = 0.00281897
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.12415e-06
+ 
+step =203
+ktemp0_1_max = 0.00284525
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.33655e-06
+ 
+step =204
+ktemp0_1_max = 0.00287272
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.62533e-06
+ 
+step =205
+ktemp0_1_max = 0.002898
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.90678e-06
+ 
+step =206
+ktemp0_1_max = 0.00291896
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.46355e-06
+ 
+step =207
+ktemp0_1_max = 0.00294211
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.34496e-06
+ 
+step =208
+ktemp0_1_max = 0.00296476
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.84908e-06
+ 
+step =209
+ktemp0_1_max = 0.00298657
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.36362e-06
+ 
+step =210
+ktemp0_1_max = 0.00301024
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.93682e-06
+ 
+step =211
+ktemp0_1_max = 0.00303465
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.84443e-06
+ 
+step =212
+ktemp0_1_max = 0.00305897
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.97146e-06
+ 
+step =213
+ktemp0_1_max = 0.0030787
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.60231e-06
+ 
+step =214
+ktemp0_1_max = 0.00310048
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.75086e-06
+ 
+step =215
+ktemp0_1_max = 0.00311947
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.9385e-06
+ 
+step =216
+ktemp0_1_max = 0.00313932
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.1436e-06
+ 
+step =217
+ktemp0_1_max = 0.0031619
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.02348e-06
+ 
+step =218
+ktemp0_1_max = 0.00318371
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.33881e-06
+ 
+step =219
+ktemp0_1_max = 0.003206
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.90504e-06
+ 
+step =220
+ktemp0_1_max = 0.00322855
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.84368e-06
+ 
+step =221
+ktemp0_1_max = 0.00324658
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.16816e-06
+ 
+step =222
+ktemp0_1_max = 0.00326209
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.25097e-06
+ 
+step =223
+ktemp0_1_max = 0.00327885
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.64904e-06
+ 
+step =224
+ktemp0_1_max = 0.0032947
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.48388e-06
+ 
+step =225
+ktemp0_1_max = 0.00331315
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.82954e-06
+ 
+step =226
+ktemp0_1_max = 0.00332781
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.31754e-06
+ 
+step =227
+ktemp0_1_max = 0.00333997
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.61789e-06
+ 
+step =228
+ktemp0_1_max = 0.00335476
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.07556e-06
+ 
+step =229
+ktemp0_1_max = 0.00336879
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.16578e-06
+ 
+step =230
+ktemp0_1_max = 0.00337997
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.52897e-06
+ 
+step =231
+ktemp0_1_max = 0.00338915
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.88938e-06
+ 
+step =232
+ktemp0_1_max = 0.00339536
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.69966e-06
+ 
+step =233
+ktemp0_1_max = 0.00339859
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.21944e-06
+ 
+step =234
+ktemp0_1_max = 0.00339998
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.21853e-06
+ 
+step =235
+ktemp0_1_max = 0.00340257
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.99379e-06
+ 
+step =236
+ktemp0_1_max = 0.00340161
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.11174e-06
+ 
+step =237
+ktemp0_1_max = 0.00340436
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.25017e-06
+ 
+step =238
+ktemp0_1_max = 0.00340642
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.93504e-06
+ 
+step =239
+ktemp0_1_max = 0.00341587
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.11277e-06
+ 
+step =240
+ktemp0_1_max = 0.00342404
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.76099e-06
+ 
+step =241
+ktemp0_1_max = 0.00342748
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.41817e-06
+ 
+step =242
+ktemp0_1_max = 0.00343312
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.57262e-06
+ 
+step =243
+ktemp0_1_max = 0.00343726
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.78465e-06
+ 
+step =244
+ktemp0_1_max = 0.00344085
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.50387e-06
+ 
+step =245
+ktemp0_1_max = 0.00344759
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.94212e-06
+ 
+step =246
+ktemp0_1_max = 0.00345499
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.23851e-06
+ 
+step =247
+ktemp0_1_max = 0.00345957
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.10246e-06
+ 
+step =248
+ktemp0_1_max = 0.00346551
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.70244e-06
+ 
+step =249
+ktemp0_1_max = 0.0034731
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.22424e-06
+ 
+step =250
+ktemp0_1_max = 0.00347978
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.23285e-06
+ 
+step =251
+ktemp0_1_max = 0.00348498
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.16641e-06
+ 
+step =252
+ktemp0_1_max = 0.0034904
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.77255e-06
+ 
+step =253
+ktemp0_1_max = 0.0034941
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.45637e-06
+ 
+step =254
+ktemp0_1_max = 0.00349732
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.74448e-06
+ 
+step =255
+ktemp0_1_max = 0.00350204
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.86638e-06
+ 
+step =256
+ktemp0_1_max = 0.00350755
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.68114e-06
+ 
+step =257
+ktemp0_1_max = 0.00351791
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.89104e-06
+ 
+step =258
+ktemp0_1_max = 0.00352872
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.13311e-06
+ 
+step =259
+ktemp0_1_max = 0.00353842
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.5677e-06
+ 
+step =260
+ktemp0_1_max = 0.00354773
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.87761e-06
+ 
+step =261
+ktemp0_1_max = 0.00359072
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.85304e-06
+ 
+step =262
+ktemp0_1_max = 0.00364628
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.77371e-06
+ 
+step =263
+ktemp0_1_max = 0.00370145
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.76975e-06
+ 
+step =264
+ktemp0_1_max = 0.00374851
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.10226e-06
+ 
+step =265
+ktemp0_1_max = 0.00379897
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.60713e-06
+ 
+step =266
+ktemp0_1_max = 0.0038426
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.02522e-06
+ 
+step =267
+ktemp0_1_max = 0.00388273
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.12211e-06
+ 
+step =268
+ktemp0_1_max = 0.0039243
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.75151e-06
+ 
+step =269
+ktemp0_1_max = 0.00396428
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.91922e-06
+ 
+step =270
+ktemp0_1_max = 0.00400143
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.39224e-06
+ 
+step =271
+ktemp0_1_max = 0.00403705
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.18145e-06
+ 
+step =272
+ktemp0_1_max = 0.00406975
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.75107e-06
+ 
+step =273
+ktemp0_1_max = 0.00410858
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.49844e-06
+ 
+step =274
+ktemp0_1_max = 0.00414262
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.92601e-06
+ 
+step =275
+ktemp0_1_max = 0.00417384
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.06644e-06
+ 
+step =276
+ktemp0_1_max = 0.00420016
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.54202e-06
+ 
+step =277
+ktemp0_1_max = 0.00421718
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.97687e-06
+ 
+step =278
+ktemp0_1_max = 0.00423572
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.21404e-06
+ 
+step =279
+ktemp0_1_max = 0.00425338
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.30091e-06
+ 
+step =280
+ktemp0_1_max = 0.00427177
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.03098e-06
+ 
+step =281
+ktemp0_1_max = 0.00428884
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.69809e-06
+ 
+step =282
+ktemp0_1_max = 0.00430157
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.43737e-06
+ 
+step =283
+ktemp0_1_max = 0.00430843
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.62198e-06
+ 
+step =284
+ktemp0_1_max = 0.0043097
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.12619e-06
+ 
+step =285
+ktemp0_1_max = 0.00434839
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.21511e-06
+ 
+step =286
+ktemp0_1_max = 0.00438838
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.69382e-06
+ 
+step =287
+ktemp0_1_max = 0.00442775
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.81356e-06
+ 
+step =288
+ktemp0_1_max = 0.00446946
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.52369e-06
+ 
+step =289
+ktemp0_1_max = 0.00450998
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.13968e-06
+ 
+step =290
+ktemp0_1_max = 0.0045511
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.78557e-06
+ 
+step =291
+ktemp0_1_max = 0.00459243
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.92433e-06
+ 
+step =292
+ktemp0_1_max = 0.00463171
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.70831e-06
+ 
+step =293
+ktemp0_1_max = 0.00467402
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.41849e-06
+ 
+step =294
+ktemp0_1_max = 0.00471876
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.56265e-06
+ 
+step =295
+ktemp0_1_max = 0.00476298
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.54948e-06
+ 
+step =296
+ktemp0_1_max = 0.00480524
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.13531e-06
+ 
+step =297
+ktemp0_1_max = 0.00484816
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.5442e-06
+ 
+step =298
+ktemp0_1_max = 0.00488941
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.40543e-06
+ 
+step =299
+ktemp0_1_max = 0.00493222
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.99017e-06
+ 
+step =300
+ktemp0_1_max = 0.00497582
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.01786e-06
+ 
+step =301
+ktemp0_1_max = 0.00501909
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.93686e-06
+ 
+step =302
+ktemp0_1_max = 0.00506114
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.56472e-06
+ 
+step =303
+ktemp0_1_max = 0.00510298
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.53569e-06
+ 
+step =304
+ktemp0_1_max = 0.00514221
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.81925e-06
+ 
+step =305
+ktemp0_1_max = 0.00518127
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.24758e-06
+ 
+step =306
+ktemp0_1_max = 0.00522049
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.01533e-06
+ 
+step =307
+ktemp0_1_max = 0.00526069
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.9815e-06
+ 
+step =308
+ktemp0_1_max = 0.00530128
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.67921e-06
+ 
+step =309
+ktemp0_1_max = 0.00534216
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.4782e-06
+ 
+step =310
+ktemp0_1_max = 0.00538316
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.62858e-06
+ 
+step =311
+ktemp0_1_max = 0.00542363
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.80739e-06
+ 
+step =312
+ktemp0_1_max = 0.00546756
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.93623e-06
+ 
+step =313
+ktemp0_1_max = 0.00550917
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.85522e-06
+ 
+step =314
+ktemp0_1_max = 0.00554973
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.01868e-06
+ 
+step =315
+ktemp0_1_max = 0.00558984
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.10081e-06
+ 
+step =316
+ktemp0_1_max = 0.00563075
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.51725e-06
+ 
+step =317
+ktemp0_1_max = 0.00567133
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.55286e-06
+ 
+step =318
+ktemp0_1_max = 0.0057105
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.08501e-06
+ 
+step =319
+ktemp0_1_max = 0.00574813
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.56927e-06
+ 
+step =320
+ktemp0_1_max = 0.00578582
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.27655e-06
+ 
+step =321
+ktemp0_1_max = 0.00582376
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.59091e-06
+ 
+step =322
+ktemp0_1_max = 0.0058628
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.50207e-06
+ 
+step =323
+ktemp0_1_max = 0.00590084
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.10213e-06
+ 
+step =324
+ktemp0_1_max = 0.00594105
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.29957e-06
+ 
+step =325
+ktemp0_1_max = 0.00597985
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.25802e-06
+ 
+step =326
+ktemp0_1_max = 0.00601494
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.85102e-06
+ 
+step =327
+ktemp0_1_max = 0.00605049
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.90449e-06
+ 
+step =328
+ktemp0_1_max = 0.00608476
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.10297e-06
+ 
+step =329
+ktemp0_1_max = 0.00611838
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.83396e-06
+ 
+step =330
+ktemp0_1_max = 0.00614784
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.01275e-06
+ 
+step =331
+ktemp0_1_max = 0.00617775
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.55604e-06
+ 
+step =332
+ktemp0_1_max = 0.00620629
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.32226e-06
+ 
+step =333
+ktemp0_1_max = 0.00623369
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.97405e-06
+ 
+step =334
+ktemp0_1_max = 0.0062612
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.07803e-06
+ 
+step =335
+ktemp0_1_max = 0.00628834
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.66439e-06
+ 
+step =336
+ktemp0_1_max = 0.00631303
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.14632e-06
+ 
+step =337
+ktemp0_1_max = 0.00633723
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.28921e-06
+ 
+step =338
+ktemp0_1_max = 0.00635937
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.31067e-06
+ 
+step =339
+ktemp0_1_max = 0.00638051
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.22898e-06
+ 
+step =340
+ktemp0_1_max = 0.00640013
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.12159e-06
+ 
+step =341
+ktemp0_1_max = 0.00642116
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.13614e-06
+ 
+step =342
+ktemp0_1_max = 0.00644114
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.73473e-06
+ 
+step =343
+ktemp0_1_max = 0.00646193
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.62514e-06
+ 
+step =344
+ktemp0_1_max = 0.00648344
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.49502e-06
+ 
+step =345
+ktemp0_1_max = 0.00650578
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.04607e-06
+ 
+step =346
+ktemp0_1_max = 0.00652755
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.82297e-06
+ 
+step =347
+ktemp0_1_max = 0.00654954
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.49306e-06
+ 
+step =348
+ktemp0_1_max = 0.00656995
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.99862e-06
+ 
+step =349
+ktemp0_1_max = 0.00658722
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.00426e-05
+ 
+step =350
+ktemp0_1_max = 0.00660375
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.03697e-05
+ 
+step =351
+ktemp0_1_max = 0.00662252
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.95856e-06
+ 
+step =352
+ktemp0_1_max = 0.00663963
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.24313e-06
+ 
+step =353
+ktemp0_1_max = 0.00665315
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.92834e-06
+ 
+step =354
+ktemp0_1_max = 0.00666688
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.11814e-06
+ 
+step =355
+ktemp0_1_max = 0.00668222
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.53994e-06
+ 
+step =356
+ktemp0_1_max = 0.00669795
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.92422e-06
+ 
+step =357
+ktemp0_1_max = 0.00671533
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.02108e-05
+ 
+step =358
+ktemp0_1_max = 0.0067319
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.06182e-05
+ 
+step =359
+ktemp0_1_max = 0.0067459
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.07594e-05
+ 
+step =360
+ktemp0_1_max = 0.00675928
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.1491e-05
+ 
+step =361
+ktemp0_1_max = 0.00677413
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.19589e-05
+ 
+step =362
+ktemp0_1_max = 0.00679013
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.20233e-05
+ 
+step =363
+ktemp0_1_max = 0.00680506
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.23592e-05
+ 
+step =364
+ktemp0_1_max = 0.00681962
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.31777e-05
+ 
+step =365
+ktemp0_1_max = 0.00683577
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.44214e-05
+ 
+step =366
+ktemp0_1_max = 0.0068505
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.54594e-05
+ 
+step =367
+ktemp0_1_max = 0.00686341
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.61568e-05
+ 
+step =368
+ktemp0_1_max = 0.00687622
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.7508e-05
+ 
+step =369
+ktemp0_1_max = 0.00688722
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.94276e-05
+ 
+step =370
+ktemp0_1_max = 0.00689801
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.08606e-05
+ 
+step =371
+ktemp0_1_max = 0.00690882
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.13395e-05
+ 
+step =372
+ktemp0_1_max = 0.00691978
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.13533e-05
+ 
+step =373
+ktemp0_1_max = 0.00693372
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.2403e-05
+ 
+step =374
+ktemp0_1_max = 0.00694541
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.46621e-05
+ 
+step =375
+ktemp0_1_max = 0.00695756
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.67233e-05
+ 
+step =376
+ktemp0_1_max = 0.00697206
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.75494e-05
+ 
+step =377
+ktemp0_1_max = 0.00698401
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.79856e-05
+ 
+step =378
+ktemp0_1_max = 0.00699951
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.85773e-05
+ 
+step =379
+ktemp0_1_max = 0.00701819
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.93067e-05
+ 
+step =380
+ktemp0_1_max = 0.00704001
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.00398e-05
+ 
+step =381
+ktemp0_1_max = 0.00706405
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.08238e-05
+ 
+step =382
+ktemp0_1_max = 0.00708724
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.20742e-05
+ 
+step =383
+ktemp0_1_max = 0.00711126
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.39103e-05
+ 
+step =384
+ktemp0_1_max = 0.00713829
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.57048e-05
+ 
+step =385
+ktemp0_1_max = 0.00716561
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.70455e-05
+ 
+step =386
+ktemp0_1_max = 0.00719337
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.83866e-05
+ 
+step =387
+ktemp0_1_max = 0.00722143
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.03697e-05
+ 
+step =388
+ktemp0_1_max = 0.00725164
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.30742e-05
+ 
+step =389
+ktemp0_1_max = 0.00728149
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.57337e-05
+ 
+step =390
+ktemp0_1_max = 0.00731176
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.76941e-05
+ 
+step =391
+ktemp0_1_max = 0.00734254
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.11295e-05
+ 
+step =392
+ktemp0_1_max = 0.00737261
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.44235e-05
+ 
+step =393
+ktemp0_1_max = 0.00739959
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.8241e-05
+ 
+step =394
+ktemp0_1_max = 0.00742789
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.32414e-05
+ 
+step =395
+ktemp0_1_max = 0.0074565
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.89114e-05
+ 
+step =396
+ktemp0_1_max = 0.0074858
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.45659e-05
+ 
+step =397
+ktemp0_1_max = 0.00751453
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.95109e-05
+ 
+step =398
+ktemp0_1_max = 0.00754499
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.50037e-05
+ 
+step =399
+ktemp0_1_max = 0.00757899
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.19297e-05
+ 
+step =400
+ktemp0_1_max = 0.00761158
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 9.99802e-05
+ 
+step =401
+ktemp0_1_max = 0.00764676
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000108741
+ 
+step =402
+ktemp0_1_max = 0.00768107
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000118438
+ 
+step =403
+ktemp0_1_max = 0.00771819
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000128657
+ 
+step =404
+ktemp0_1_max = 0.00775444
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000139596
+ 
+step =405
+ktemp0_1_max = 0.00779261
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000151404
+ 
+step =406
+ktemp0_1_max = 0.00783273
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000164532
+ 
+step =407
+ktemp0_1_max = 0.00787454
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000178651
+ 
+step =408
+ktemp0_1_max = 0.00791401
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000193412
+ 
+step =409
+ktemp0_1_max = 0.00795427
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00020905
+ 
+step =410
+ktemp0_1_max = 0.00799776
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000226397
+ 
+step =411
+ktemp0_1_max = 0.00804154
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000245521
+ 
+step =412
+ktemp0_1_max = 0.00808623
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000266163
+ 
+step =413
+ktemp0_1_max = 0.00813281
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000288157
+ 
+step =414
+ktemp0_1_max = 0.00817871
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000312225
+ 
+step =415
+ktemp0_1_max = 0.00822254
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000338694
+ 
+step =416
+ktemp0_1_max = 0.0082665
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000367823
+ 
+step =417
+ktemp0_1_max = 0.00830938
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000399312
+ 
+step =418
+ktemp0_1_max = 0.00835413
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000433112
+ 
+step =419
+ktemp0_1_max = 0.00840016
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000469032
+ 
+step =420
+ktemp0_1_max = 0.00844523
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000508375
+ 
+step =421
+ktemp0_1_max = 0.00848959
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00055258
+ 
+step =422
+ktemp0_1_max = 0.00853795
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000602149
+ 
+step =423
+ktemp0_1_max = 0.00858693
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000655992
+ 
+step =424
+ktemp0_1_max = 0.0086362
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000713804
+ 
+step =425
+ktemp0_1_max = 0.00868255
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000775681
+ 
+step =426
+ktemp0_1_max = 0.00872668
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000840986
+ 
+step =427
+ktemp0_1_max = 0.00876879
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000912293
+ 
+step =428
+ktemp0_1_max = 0.00881098
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.000990708
+ 
+step =429
+ktemp0_1_max = 0.00885638
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0010765
+ 
+step =430
+ktemp0_1_max = 0.00889938
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00117091
+ 
+step =431
+ktemp0_1_max = 0.00893889
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00127283
+ 
+step =432
+ktemp0_1_max = 0.00897845
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00138397
+ 
+step =433
+ktemp0_1_max = 0.00901676
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00150245
+ 
+step =434
+ktemp0_1_max = 0.00905384
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00163283
+ 
+step =435
+ktemp0_1_max = 0.00909212
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00177916
+ 
+step =436
+ktemp0_1_max = 0.00913344
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00194038
+ 
+step =437
+ktemp0_1_max = 0.00917365
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00211406
+ 
+step =438
+ktemp0_1_max = 0.00921404
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00230046
+ 
+step =439
+ktemp0_1_max = 0.00925073
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00250699
+ 
+step =440
+ 
+step =440
+ktemp0_1_max = 0.00928946
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00273601
+ 
+step =441
+ 
+step =441
+ 
+step =441
+ktemp0_1_max = 0.00935917
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00329064
+ 
+step =442
+ 
+step =442
+ktemp0_1_max = 0.00951992
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00412638
+ 
+step =443
+ 
+step =443
+ 
+step =443
+ktemp0_1_max = 0.00970217
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00467115
+ 
+step =444
+ 
+step =444
+ 
+step =444
+ 
+step =444
+ktemp0_1_max = 0.0100383
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00555452
+ 
+step =445
+ 
+step =445
+ 
+step =445
+ 
+step =445
+ktemp0_1_max = 0.010527
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00673982
+ 
+step =446
+ 
+step =446
+ 
+step =446
+ 
+step =446
+ktemp0_1_max = 0.0110232
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00791869
+ 
+step =447
+ 
+step =447
+ 
+step =447
+ 
+step =447
+ 
+step =447
+ktemp0_1_max = 0.0114953
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.00912653
+ 
+step =448
+ 
+step =448
+ 
+step =448
+ 
+step =448
+ 
+step =448
+ktemp0_1_max = 0.0120737
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0106669
+ 
+step =449
+ 
+step =449
+ 
+step =449
+ 
+step =449
+ktemp0_1_max = 0.0126433
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.012208
+ 
+step =450
+ 
+step =450
+ 
+step =450
+ 
+step =450
+ 
+step =450
+ktemp0_1_max = 0.0130663
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0134771
+ 
+step =451
+ 
+step =451
+ 
+step =451
+ 
+step =451
+ktemp0_1_max = 0.0136128
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.015167
+ 
+step =452
+ 
+step =452
+ 
+step =452
+ 
+step =452
+ 
+step =452
+ktemp0_1_max = 0.01406
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0165624
+ 
+step =453
+ 
+step =453
+ 
+step =453
+ 
+step =453
+ktemp0_1_max = 0.0146562
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0184167
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0151399
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0199005
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0157948
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0218254
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0163555
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.023308
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0171054
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0252494
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0177091
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0267124
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0185162
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0285148
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0193486
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0301539
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0201866
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0316784
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0210003
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0329997
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0218073
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0342198
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0226026
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0353327
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0233859
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0366479
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0241495
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0378155
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0249181
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0387956
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0258181
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0409598
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0265145
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0432087
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0271567
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0453928
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0277446
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0474707
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.028306
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0494424
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0289237
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0515004
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0294578
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0534016
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0298206
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0549405
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0301245
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0562635
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.03035
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0573423
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0304884
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0580938
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0306465
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0589755
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0307561
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0597077
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0308326
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0602716
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0308953
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0607815
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0309461
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0611845
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0310055
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0620272
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0310591
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.06274
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0311203
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0633594
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0311797
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0639337
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0312307
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0644492
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0312881
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0649443
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0313508
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0654121
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.031386
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0658651
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0313902
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0661968
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0313719
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0664408
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0313488
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0666687
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0312854
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0668162
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.031284
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0668227
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0316291
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0667555
+ 
+step =454
+ 
+step =454
+ 
+step =454
+ktemp0_1_max = 0.0319814
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0669317
+ 
+step =455
+ 
+step =455
+ 
+step =455
+ktemp0_1_max = 0.0322773
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0674363
+ 
+step =456
+ 
+step =456
+ 
+step =456
+ 
+step =456
+ktemp0_1_max = 0.0325362
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0679492
+ 
+step =457
+ 
+step =457
+ 
+step =457
+ 
+step =457
+ktemp0_1_max = 0.0328921
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0685831
+ 
+step =458
+ 
+step =458
+ 
+step =458
+ 
+step =458
+ktemp0_1_max = 0.0332781
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0691386
+ 
+step =459
+ 
+step =459
+ 
+step =459
+ktemp0_1_max = 0.0336562
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0697187
+ 
+step =460
+ 
+step =460
+ 
+step =460
+ktemp0_1_max = 0.0339439
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0702114
+ 
+step =461
+ 
+step =461
+ 
+step =461
+ 
+step =461
+ktemp0_1_max = 0.0342444
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0707032
+ 
+step =462
+ 
+step =462
+ 
+step =462
+ 
+step =462
+ktemp0_1_max = 0.0346128
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0713242
+ 
+step =463
+ 
+step =463
+ 
+step =463
+ktemp0_1_max = 0.0350106
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0718932
+ 
+step =464
+ 
+step =464
+ 
+step =464
+ktemp0_1_max = 0.035402
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.072338
+ 
+step =465
+ 
+step =465
+ 
+step =465
+ktemp0_1_max = 0.0358394
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0728407
+ 
+step =466
+ 
+step =466
+ 
+step =466
+ 
+step =466
+ktemp0_1_max = 0.036323
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0733972
+ 
+step =467
+ 
+step =467
+ 
+step =467
+ktemp0_1_max = 0.0368991
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0740841
+ 
+step =468
+ 
+step =468
+ 
+step =468
+ 
+step =468
+ktemp0_1_max = 0.037374
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0746755
+ 
+step =469
+ 
+step =469
+ 
+step =469
+ 
+step =469
+ktemp0_1_max = 0.0378475
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0753542
+ 
+step =470
+ 
+step =470
+ 
+step =470
+ 
+step =470
+ktemp0_1_max = 0.0382735
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0759961
+ 
+step =471
+ 
+step =471
+ 
+step =471
+ktemp0_1_max = 0.0386843
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0766999
+ 
+step =472
+ 
+step =472
+ 
+step =472
+ktemp0_1_max = 0.0390119
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0773555
+ 
+step =473
+ 
+step =473
+ 
+step =473
+ktemp0_1_max = 0.0393263
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0780323
+ 
+step =474
+ 
+step =474
+ 
+step =474
+ktemp0_1_max = 0.0396863
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0786357
+ 
+step =475
+ 
+step =475
+ 
+step =475
+ktemp0_1_max = 0.0400643
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.079211
+ 
+step =476
+ 
+step =476
+ktemp0_1_max = 0.0403941
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0797445
+ 
+step =477
+ 
+step =477
+ 
+step =477
+ktemp0_1_max = 0.0406554
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0802146
+ 
+step =478
+ 
+step =478
+ 
+step =478
+ktemp0_1_max = 0.0409778
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0808178
+ 
+step =479
+ 
+step =479
+ 
+step =479
+ktemp0_1_max = 0.0413167
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0814439
+ 
+step =480
+ 
+step =480
+ 
+step =480
+ktemp0_1_max = 0.0416874
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0821371
+ 
+step =481
+ 
+step =481
+ 
+step =481
+ktemp0_1_max = 0.0420321
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.08274
+ 
+step =482
+ 
+step =482
+ 
+step =482
+ktemp0_1_max = 0.0423769
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0833334
+ 
+step =483
+ 
+step =483
+ktemp0_1_max = 0.0426507
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0839456
+ 
+step =484
+ 
+step =484
+ 
+step =484
+ktemp0_1_max = 0.0428491
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0843883
+ 
+step =485
+ 
+step =485
+ 
+step =485
+ktemp0_1_max = 0.0430371
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0847915
+ 
+step =486
+ 
+step =486
+ 
+step =486
+ktemp0_1_max = 0.0432293
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0851026
+ 
+step =487
+ 
+step =487
+ 
+step =487
+ktemp0_1_max = 0.0434104
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0853353
+ 
+step =488
+ 
+step =488
+ktemp0_1_max = 0.0435418
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0855648
+ 
+step =489
+ 
+step =489
+ 
+step =489
+ktemp0_1_max = 0.0436178
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0856943
+ 
+step =490
+ 
+step =490
+ktemp0_1_max = 0.0437122
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0857903
+ 
+step =491
+ 
+step =491
+ 
+step =491
+ktemp0_1_max = 0.0437643
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0858707
+ 
+step =492
+ 
+step =492
+ 
+step =492
+ktemp0_1_max = 0.0439174
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0859279
+ 
+step =493
+ 
+step =493
+ktemp0_1_max = 0.0440864
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0859714
+ 
+step =494
+ 
+step =494
+ 
+step =494
+ktemp0_1_max = 0.0442657
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0860303
+ 
+step =495
+ 
+step =495
+ktemp0_1_max = 0.0444691
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0861989
+ 
+step =496
+ 
+step =496
+ 
+step =496
+ktemp0_1_max = 0.044683
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0861933
+ 
+step =497
+ 
+step =497
+ktemp0_1_max = 0.0449239
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0861594
+ 
+step =498
+ 
+step =498
+ 
+step =498
+ktemp0_1_max = 0.0451299
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0859255
+ 
+step =499
+ 
+step =499
+ktemp0_1_max = 0.0453379
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0857163
+ 
+step =500
+ 
+step =500
+ 
+step =500
+ktemp0_1_max = 0.0454942
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.085473
+ 
+step =501
+ 
+step =501
+ktemp0_1_max = 0.0456644
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0851973
+ 
+step =502
+ 
+step =502
+ 
+step =502
+ktemp0_1_max = 0.0457899
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0848592
+ 
+step =503
+ 
+step =503
+ktemp0_1_max = 0.0459729
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0850908
+ 
+step =504
+ 
+step =504
+ 
+step =504
+ktemp0_1_max = 0.04615
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0857013
+ 
+step =505
+ 
+step =505
+ 
+step =505
+ktemp0_1_max = 0.0464148
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.086387
+ 
+step =506
+ 
+step =506
+ktemp0_1_max = 0.0467117
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0869212
+ 
+step =507
+ 
+step =507
+ktemp0_1_max = 0.0469191
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0873332
+ 
+step =508
+ 
+step =508
+ 
+step =508
+ktemp0_1_max = 0.0470778
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0877941
+ 
+step =509
+ 
+step =509
+ktemp0_1_max = 0.0473116
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0882894
+ 
+step =510
+ 
+step =510
+ 
+step =510
+ktemp0_1_max = 0.0474438
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0886583
+ 
+step =511
+ 
+step =511
+ 
+step =511
+ktemp0_1_max = 0.047521
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0891226
+ 
+step =512
+ 
+step =512
+ 
+step =512
+ktemp0_1_max = 0.047584
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0896399
+ 
+step =513
+ 
+step =513
+ktemp0_1_max = 0.0476581
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0901767
+ 
+step =514
+ 
+step =514
+ 
+step =514
+ktemp0_1_max = 0.0477114
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0906262
+ 
+step =515
+ 
+step =515
+ktemp0_1_max = 0.0478093
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0912062
+ 
+step =516
+ 
+step =516
+ktemp0_1_max = 0.0478605
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0917031
+ 
+step =517
+ 
+step =517
+ 
+step =517
+ktemp0_1_max = 0.0479049
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0921927
+ 
+step =518
+ 
+step =518
+ktemp0_1_max = 0.0479434
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0927788
+ 
+step =519
+ 
+step =519
+ktemp0_1_max = 0.0479138
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0932583
+ 
+step =520
+ 
+step =520
+ktemp0_1_max = 0.0478709
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.093644
+ 
+step =521
+ 
+step =521
+ 
+step =521
+ktemp0_1_max = 0.0478305
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0939653
+ 
+step =522
+ 
+step =522
+ktemp0_1_max = 0.0478076
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0944415
+ 
+step =523
+ 
+step =523
+ 
+step =523
+ktemp0_1_max = 0.0476737
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0948365
+ 
+step =524
+ 
+step =524
+ktemp0_1_max = 0.0476053
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0952364
+ 
+step =525
+ 
+step =525
+ktemp0_1_max = 0.0474686
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0955711
+ 
+step =526
+ 
+step =526
+ktemp0_1_max = 0.0473071
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0958697
+ 
+step =527
+ 
+step =527
+ktemp0_1_max = 0.0471736
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0960722
+ 
+step =528
+ 
+step =528
+ 
+step =528
+ktemp0_1_max = 0.0470527
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.09624
+ 
+step =529
+ 
+step =529
+ktemp0_1_max = 0.0469742
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0963505
+ 
+step =530
+ 
+step =530
+ 
+step =530
+ktemp0_1_max = 0.0468585
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0964766
+ 
+step =531
+ 
+step =531
+ktemp0_1_max = 0.0467804
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0966296
+ 
+step =532
+ 
+step =532
+ktemp0_1_max = 0.0466446
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0967628
+ 
+step =533
+ 
+step =533
+ktemp0_1_max = 0.0464561
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0969376
+ 
+step =534
+ 
+step =534
+ktemp0_1_max = 0.0462953
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.096896
+ 
+step =535
+ 
+step =535
+ktemp0_1_max = 0.0460932
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0968359
+ 
+step =536
+ 
+step =536
+ktemp0_1_max = 0.0458582
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0983345
+ 
+step =537
+ 
+step =537
+ktemp0_1_max = 0.0455576
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.0997669
+ 
+step =538
+ 
+step =538
+ktemp0_1_max = 0.0452524
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.101089
+ 
+step =539
+ 
+step =539
+ktemp0_1_max = 0.0450211
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.10242
+ 
+step =540
+ 
+step =540
+ktemp0_1_max = 0.0448208
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.103758
+ 
+step =541
+ 
+step =541
+ktemp0_1_max = 0.0446048
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.105071
+ 
+step =542
+ 
+step =542
+ktemp0_1_max = 0.0443602
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106399
+ 
+step =543
+ 
+step =543
+ 
+step =543
+ktemp0_1_max = 0.0441336
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.107671
+ 
+step =544
+ 
+step =544
+ktemp0_1_max = 0.0439435
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.108734
+ 
+step =545
+ 
+step =545
+ktemp0_1_max = 0.0437383
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.109605
+ 
+step =546
+ 
+step =546
+ktemp0_1_max = 0.0436482
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.110422
+ 
+step =547
+ 
+step =547
+ktemp0_1_max = 0.0439962
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.111279
+ 
+step =548
+ 
+step =548
+ktemp0_1_max = 0.0443198
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.111967
+ 
+step =549
+ 
+step =549
+ktemp0_1_max = 0.044613
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.112443
+ 
+step =550
+ktemp0_1_max = 0.0448636
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.112826
+ 
+step =551
+ 
+step =551
+ktemp0_1_max = 0.0450391
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.113088
+ 
+step =552
+ 
+step =552
+ktemp0_1_max = 0.0452249
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.113007
+ 
+step =553
+ 
+step =553
+ktemp0_1_max = 0.045397
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.112934
+ 
+step =554
+ 
+step =554
+ktemp0_1_max = 0.0455753
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.112754
+ 
+step =555
+ 
+step =555
+ktemp0_1_max = 0.0457391
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.11258
+ 
+step =556
+ 
+step =556
+ktemp0_1_max = 0.0458621
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.112333
+ 
+step =557
+ 
+step =557
+ktemp0_1_max = 0.0460183
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.11214
+ 
+step =558
+ 
+step =558
+ktemp0_1_max = 0.0461849
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.111836
+ 
+step =559
+ktemp0_1_max = 0.046321
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.111485
+ 
+step =560
+ 
+step =560
+ktemp0_1_max = 0.0464362
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.111179
+ 
+step =561
+ 
+step =561
+ktemp0_1_max = 0.046608
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.110706
+ 
+step =562
+ 
+step =562
+ktemp0_1_max = 0.0467698
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.110295
+ 
+step =563
+ 
+step =563
+ktemp0_1_max = 0.0469427
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.109843
+ 
+step =564
+ 
+step =564
+ktemp0_1_max = 0.0471069
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.109443
+ 
+step =565
+ktemp0_1_max = 0.0472818
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.109
+ 
+step =566
+ 
+step =566
+ktemp0_1_max = 0.0474147
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.108513
+ 
+step =567
+ktemp0_1_max = 0.0475179
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.107913
+ 
+step =568
+ 
+step =568
+ktemp0_1_max = 0.0475558
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.107318
+ 
+step =569
+ktemp0_1_max = 0.047604
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106644
+ 
+step =570
+ 
+step =570
+ktemp0_1_max = 0.0478228
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.105953
+ 
+step =571
+ 
+step =571
+ktemp0_1_max = 0.0480879
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.105817
+ 
+step =572
+ 
+step =572
+ktemp0_1_max = 0.0483696
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106206
+ 
+step =573
+ 
+step =573
+ktemp0_1_max = 0.0486467
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106512
+ 
+step =574
+ 
+step =574
+ktemp0_1_max = 0.0488886
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106706
+ 
+step =575
+ 
+step =575
+ktemp0_1_max = 0.0491234
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106856
+ 
+step =576
+ktemp0_1_max = 0.0493299
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106988
+ 
+step =577
+ 
+step =577
+ktemp0_1_max = 0.0494571
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106923
+ 
+step =578
+ktemp0_1_max = 0.0495923
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.107008
+ 
+step =579
+ 
+step =579
+ktemp0_1_max = 0.0496974
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106829
+ 
+step =580
+ktemp0_1_max = 0.0498296
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.106888
+ 
+step =581
+ 
+step =581
+ktemp0_1_max = 0.049958
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.107471
+ 
+step =582
+ 
+step =582
+ktemp0_1_max = 0.0500888
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.108362
+ 
+step =583
+ktemp0_1_max = 0.0501472
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.109222
+ 
+step =584
+ 
+step =584
+ktemp0_1_max = 0.0501819
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.110018
+ 
+step =585
+ 
+step =585
+ktemp0_1_max = 0.0502271
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.111047
+ 
+step =586
+ktemp0_1_max = 0.0502416
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.11204
+ 
+step =587
+ 
+step =587
+ktemp0_1_max = 0.0502626
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.112864
+ 
+step =588
+ 
+step =588
+ktemp0_1_max = 0.0502698
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.113708
+ 
+step =589
+ 
+step =589
+ktemp0_1_max = 0.050355
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.114402
+ 
+step =590
+ 
+step =590
+ktemp0_1_max = 0.0504623
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.115098
+ 
+step =591
+ 
+step =591
+ktemp0_1_max = 0.0505512
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.115623
+ 
+step =592
+ktemp0_1_max = 0.0505809
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.116139
+ 
+step =593
+ 
+step =593
+ktemp0_1_max = 0.0505218
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.116513
+ 
+step =594
+ktemp0_1_max = 0.0505046
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.11689
+ 
+step =595
+ 
+step =595
+ktemp0_1_max = 0.0504758
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.117279
+ 
+step =596
+ 
+step =596
+ktemp0_1_max = 0.0504216
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.117774
+ 
+step =597
+ 
+step =597
+ktemp0_1_max = 0.0503925
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.118228
+ 
+step =598
+ktemp0_1_max = 0.0503308
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.118787
+ 
+step =599
+ 
+step =599
+ktemp0_1_max = 0.0502676
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.119344
+ 
+step =600
+ 
+step =600
+ktemp0_1_max = 0.0501523
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.120001
+ 
+step =601
+ktemp0_1_max = 0.0500658
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.120613
+ 
+step =602
+ktemp0_1_max = 0.0500278
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.121247
+ 
+step =603
+ 
+step =603
+ktemp0_1_max = 0.0499841
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.12179
+ 
+step =604
+ktemp0_1_max = 0.0499365
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.122404
+ 
+step =605
+ 
+step =605
+ktemp0_1_max = 0.0498954
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.122875
+ 
+step =606
+ktemp0_1_max = 0.0498674
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.123351
+ 
+step =607
+ 
+step =607
+ktemp0_1_max = 0.049825
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.123844
+ 
+step =608
+ktemp0_1_max = 0.0497865
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.124306
+ 
+step =609
+ 
+step =609
+ktemp0_1_max = 0.0497405
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.124611
+ 
+step =610
+ 
+step =610
+ktemp0_1_max = 0.0496904
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.12498
+ 
+step =611
+ 
+step =611
+ktemp0_1_max = 0.0495802
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.125291
+ 
+step =612
+ktemp0_1_max = 0.0499259
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.125616
+ 
+step =613
+ 
+step =613
+ktemp0_1_max = 0.0502407
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.12589
+ 
+step =614
+ktemp0_1_max = 0.050509
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.12642
+ 
+step =615
+ 
+step =615
+ktemp0_1_max = 0.0508027
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.126963
+ 
+step =616
+ktemp0_1_max = 0.0511097
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.127729
+ 
+step =617
+ktemp0_1_max = 0.0514335
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.128441
+ 
+step =618
+ 
+step =618
+ktemp0_1_max = 0.051745
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.129355
+ 
+step =619
+ 
+step =619
+ktemp0_1_max = 0.05208
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.130447
+ 
+step =620
+ktemp0_1_max = 0.0524043
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.131654
+ 
+step =621
+ 
+step =621
+ktemp0_1_max = 0.0527397
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.132681
+ 
+step =622
+ktemp0_1_max = 0.0530682
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.133694
+ 
+step =623
+ 
+step =623
+ktemp0_1_max = 0.0533768
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.134597
+ 
+step =624
+ktemp0_1_max = 0.0536345
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.135573
+ 
+step =625
+ktemp0_1_max = 0.0539409
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.136362
+ 
+step =626
+ 
+step =626
+ktemp0_1_max = 0.0542626
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.13704
+ 
+step =627
+ktemp0_1_max = 0.0545871
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.137785
+ 
+step =628
+ktemp0_1_max = 0.0548991
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.138547
+ 
+step =629
+ 
+step =629
+ktemp0_1_max = 0.0552173
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.139275
+ 
+step =630
+ktemp0_1_max = 0.0555279
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.140066
+ 
+step =631
+ 
+step =631
+ktemp0_1_max = 0.0557979
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.14073
+ 
+step =632
+ 
+step =632
+ktemp0_1_max = 0.0560551
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.14144
+ 
+step =633
+ktemp0_1_max = 0.0563963
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.142046
+ 
+step =634
+ 
+step =634
+ktemp0_1_max = 0.0566942
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.142497
+ 
+step =635
+ 
+step =635
+ktemp0_1_max = 0.0570038
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.142813
+ 
+step =636
+ 
+step =636
+ktemp0_1_max = 0.0572876
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.14295
+ 
+step =637
+ 
+step =637
+ktemp0_1_max = 0.0575569
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.142855
+ 
+step =638
+ 
+step =638
+ 
+step =638
+ktemp0_1_max = 0.0577981
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.142658
+ 
+step =639
+ 
+step =639
+ktemp0_1_max = 0.058052
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.1424
+ 
+step =640
+ 
+step =640
+ktemp0_1_max = 0.0583213
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.142145
+ 
+step =641
+ 
+step =641
+ktemp0_1_max = 0.0585668
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.141879
+ 
+step =642
+ 
+step =642
+ktemp0_1_max = 0.0588629
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.141604
+ 
+step =643
+ 
+step =643
+ktemp0_1_max = 0.0591629
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.141237
+ 
+step =644
+ 
+step =644
+ktemp0_1_max = 0.0595249
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.140798
+ 
+step =645
+ 
+step =645
+ktemp0_1_max = 0.059898
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.140291
+ 
+step =646
+ktemp0_1_max = 0.0602371
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.139781
+ 
+step =647
+ktemp0_1_max = 0.0605442
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.141408
+ 
+step =648
+ 
+step =648
+ktemp0_1_max = 0.0608465
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.142961
+ 
+step =649
+ktemp0_1_max = 0.0611049
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.144367
+ 
+step =650
+ 
+step =650
+ktemp0_1_max = 0.0613788
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.145844
+ 
+step =651
+ 
+step =651
+ktemp0_1_max = 0.0615875
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.147202
+ 
+step =652
+ 
+step =652
+ktemp0_1_max = 0.0618079
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.148463
+ 
+step =653
+ 
+step =653
+ktemp0_1_max = 0.0620652
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.149583
+ 
+step =654
+ 
+step =654
+ktemp0_1_max = 0.0623334
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.150658
+ 
+step =655
+ 
+step =655
+ktemp0_1_max = 0.0626038
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.151829
+ 
+step =656
+ 
+step =656
+ktemp0_1_max = 0.062911
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.15294
+ 
+step =657
+ 
+step =657
+ktemp0_1_max = 0.0631933
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.15418
+ 
+step =658
+ 
+step =658
+ktemp0_1_max = 0.0634477
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.1555
+ 
+step =659
+ 
+step =659
+ktemp0_1_max = 0.0636767
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.156827
+ 
+step =660
+ 
+step =660
+ktemp0_1_max = 0.0638799
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.158196
+ 
+step =661
+ 
+step =661
+ktemp0_1_max = 0.0640418
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.159618
+ 
+step =662
+ 
+step =662
+ktemp0_1_max = 0.0642115
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.160986
+ 
+step =663
+ 
+step =663
+ 
+step =663
+ktemp0_1_max = 0.064392
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.162323
+ 
+step =664
+ 
+step =664
+ktemp0_1_max = 0.0645717
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.163408
+ 
+step =665
+ 
+step =665
+ 
+step =665
+ktemp0_1_max = 0.0647209
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.164441
+ 
+step =666
+ 
+step =666
+ktemp0_1_max = 0.0649287
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.165365
+ 
+step =667
+ 
+step =667
+ 
+step =667
+ktemp0_1_max = 0.0651459
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.166303
+ 
+step =668
+ 
+step =668
+ktemp0_1_max = 0.0653008
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.167131
+ 
+step =669
+ 
+step =669
+ 
+step =669
+ktemp0_1_max = 0.0654402
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.168104
+ 
+step =670
+ 
+step =670
+ 
+step =670
+ktemp0_1_max = 0.0655393
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.169183
+ 
+step =671
+ 
+step =671
+ 
+step =671
+ktemp0_1_max = 0.065637
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.170293
+ 
+step =672
+ 
+step =672
+ 
+step =672
+ktemp0_1_max = 0.065683
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.171461
+ 
+step =673
+ 
+step =673
+ 
+step =673
+ktemp0_1_max = 0.0657
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.172631
+ 
+step =674
+ 
+step =674
+ 
+step =674
+ktemp0_1_max = 0.0656327
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.173851
+ 
+step =675
+ 
+step =675
+ 
+step =675
+ktemp0_1_max = 0.0658231
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.175148
+ 
+step =676
+ 
+step =676
+ 
+step =676
+ktemp0_1_max = 0.0662235
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.176491
+ 
+step =677
+ 
+step =677
+ 
+step =677
+ktemp0_1_max = 0.0666457
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.1778
+ 
+step =678
+ 
+step =678
+ 
+step =678
+ktemp0_1_max = 0.0670386
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.17913
+ 
+step =679
+ 
+step =679
+ 
+step =679
+ktemp0_1_max = 0.0674228
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.180511
+ 
+step =680
+ 
+step =680
+ 
+step =680
+ktemp0_1_max = 0.067751
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.181988
+ 
+step =681
+ 
+step =681
+ 
+step =681
+ktemp0_1_max = 0.0681685
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.18349
+ 
+step =682
+ 
+step =682
+ 
+step =682
+ktemp0_1_max = 0.0685648
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.18508
+ 
+step =683
+ 
+step =683
+ 
+step =683
+ktemp0_1_max = 0.0690045
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.18657
+ 
+step =684
+ 
+step =684
+ 
+step =684
+ktemp0_1_max = 0.0695052
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.188001
+ 
+step =685
+ 
+step =685
+ 
+step =685
+ktemp0_1_max = 0.0700415
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.189361
+ 
+step =686
+ 
+step =686
+ 
+step =686
+ktemp0_1_max = 0.0706529
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.190711
+ 
+step =687
+ 
+step =687
+ 
+step =687
+ktemp0_1_max = 0.0712807
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.192121
+ 
+step =688
+ 
+step =688
+ 
+step =688
+ktemp0_1_max = 0.0719342
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.193638
+ 
+step =689
+ 
+step =689
+ 
+step =689
+ktemp0_1_max = 0.072662
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.195282
+ 
+step =690
+ 
+step =690
+ 
+step =690
+ktemp0_1_max = 0.0734022
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.196895
+ 
+step =691
+ 
+step =691
+ 
+step =691
+ktemp0_1_max = 0.0741644
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.19844
+ 
+step =692
+ 
+step =692
+ 
+step =692
+ktemp0_1_max = 0.0749586
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.199983
+ 
+step =693
+ 
+step =693
+ktemp0_1_max = 0.0757335
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.201481
+ 
+step =694
+ 
+step =694
+ 
+step =694
+ktemp0_1_max = 0.076414
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.202973
+ 
+step =695
+ 
+step =695
+ktemp0_1_max = 0.0771905
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.20429
+ 
+step =696
+ 
+step =696
+ 
+step =696
+ktemp0_1_max = 0.077885
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.205635
+ 
+step =697
+ 
+step =697
+ktemp0_1_max = 0.0787425
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.206905
+ 
+step =698
+ 
+step =698
+ 
+step =698
+ktemp0_1_max = 0.0794841
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.208271
+ 
+step =699
+ 
+step =699
+ 
+step =699
+ktemp0_1_max = 0.0803536
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.209711
+ 
+step =700
+ 
+step =700
+ 
+step =700
+ktemp0_1_max = 0.0812006
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.211339
+ 
+step =701
+ 
+step =701
+ktemp0_1_max = 0.0820689
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.213051
+ 
+step =702
+ 
+step =702
+ 
+step =702
+ktemp0_1_max = 0.0828187
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.214897
+ 
+step =703
+ 
+step =703
+ktemp0_1_max = 0.0837428
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.216681
+ 
+step =704
+ 
+step =704
+ktemp0_1_max = 0.0844645
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.218613
+ 
+step =705
+ 
+step =705
+ktemp0_1_max = 0.0852583
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.220475
+ 
+step =706
+ 
+step =706
+ktemp0_1_max = 0.0860687
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.222212
+ 
+step =707
+ 
+step =707
+ktemp0_1_max = 0.0869143
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.223959
+ 
+step =708
+ 
+step =708
+ktemp0_1_max = 0.08777
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.225646
+ 
+step =709
+ 
+step =709
+ktemp0_1_max = 0.0885752
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.227277
+ 
+step =710
+ 
+step =710
+ktemp0_1_max = 0.0893601
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.228771
+ 
+step =711
+ 
+step =711
+ktemp0_1_max = 0.0901487
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.230099
+ 
+step =712
+ 
+step =712
+ktemp0_1_max = 0.0909092
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.231411
+ 
+step =713
+ 
+step =713
+ktemp0_1_max = 0.0916576
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.232539
+ 
+step =714
+ 
+step =714
+ktemp0_1_max = 0.0923825
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.233601
+ 
+step =715
+ 
+step =715
+ktemp0_1_max = 0.0931112
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.234476
+ 
+step =716
+ 
+step =716
+ktemp0_1_max = 0.0938048
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.235408
+ 
+step =717
+ 
+step =717
+ktemp0_1_max = 0.0944488
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.236378
+ 
+step =718
+ 
+step =718
+ktemp0_1_max = 0.0950587
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.237519
+ 
+step =719
+ 
+step =719
+ktemp0_1_max = 0.0956286
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.238736
+ 
+step =720
+ 
+step =720
+ktemp0_1_max = 0.0962253
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.239983
+ 
+step =721
+ 
+step =721
+ktemp0_1_max = 0.096784
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.241293
+ 
+step =722
+ktemp0_1_max = 0.0973717
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.242679
+ 
+step =723
+ 
+step =723
+ktemp0_1_max = 0.0977963
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.244455
+ 
+step =724
+ktemp0_1_max = 0.0983629
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.24614
+ 
+step =725
+ 
+step =725
+ktemp0_1_max = 0.0987678
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.248014
+ 
+step =726
+ktemp0_1_max = 0.0993266
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.249686
+ 
+step =727
+ktemp0_1_max = 0.099688
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.251616
+ 
+step =728
+ 
+step =728
+ktemp0_1_max = 0.100079
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.253578
+ 
+step =729
+ 
+step =729
+ktemp0_1_max = 0.100579
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.255436
+ 
+step =730
+ 
+step =730
+ktemp0_1_max = 0.101077
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.257358
+ 
+step =731
+ 
+step =731
+ktemp0_1_max = 0.101543
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.259412
+ 
+step =732
+ 
+step =732
+ktemp0_1_max = 0.101972
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.261467
+ 
+step =733
+ 
+step =733
+ktemp0_1_max = 0.10236
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.263489
+ 
+step =734
+ 
+step =734
+ 
+step =734
+ktemp0_1_max = 0.102727
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.265491
+ 
+step =735
+ 
+step =735
+ktemp0_1_max = 0.103234
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.267376
+ 
+step =736
+ 
+step =736
+ktemp0_1_max = 0.103604
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.269236
+ 
+step =737
+ 
+step =737
+ktemp0_1_max = 0.103953
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.271089
+ 
+step =738
+ 
+step =738
+ktemp0_1_max = 0.104303
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.272952
+ 
+step =739
+ 
+step =739
+ktemp0_1_max = 0.104636
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.274991
+ 
+step =740
+ 
+step =740
+ktemp0_1_max = 0.105018
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.277122
+ 
+step =741
+ 
+step =741
+ktemp0_1_max = 0.105445
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.279249
+ 
+step =742
+ 
+step =742
+ktemp0_1_max = 0.105951
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.281375
+ 
+step =743
+ 
+step =743
+ 
+step =743
+ktemp0_1_max = 0.106445
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.283543
+ 
+step =744
+ 
+step =744
+ktemp0_1_max = 0.107028
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.285776
+ 
+step =745
+ 
+step =745
+ktemp0_1_max = 0.10755
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.28827
+ 
+step =746
+ 
+step =746
+ktemp0_1_max = 0.10813
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.290837
+ 
+step =747
+ 
+step =747
+ktemp0_1_max = 0.108703
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.293531
+ 
+step =748
+ 
+step =748
+ 
+step =748
+ktemp0_1_max = 0.109259
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.296282
+ 
+step =749
+ 
+step =749
+ktemp0_1_max = 0.109933
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.299041
+ 
+step =750
+ 
+step =750
+ 
+step =750
+ktemp0_1_max = 0.11055
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.301885
+ 
+step =751
+ 
+step =751
+ktemp0_1_max = 0.111212
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.304777
+ 
+step =752
+ 
+step =752
+ktemp0_1_max = 0.111784
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.30754
+ 
+step =753
+ 
+step =753
+ktemp0_1_max = 0.112341
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.310249
+ 
+step =754
+ 
+step =754
+ktemp0_1_max = 0.112863
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.312914
+ 
+step =755
+ 
+step =755
+ktemp0_1_max = 0.113342
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.315548
+ 
+step =756
+ 
+step =756
+ 
+step =756
+ktemp0_1_max = 0.113829
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.318251
+ 
+step =757
+ 
+step =757
+ 
+step =757
+ktemp0_1_max = 0.114359
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.320875
+ 
+step =758
+ 
+step =758
+ 
+step =758
+ktemp0_1_max = 0.114902
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.323328
+ 
+step =759
+ 
+step =759
+ktemp0_1_max = 0.115415
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.325748
+ 
+step =760
+ 
+step =760
+ 
+step =760
+ktemp0_1_max = 0.115743
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.328194
+ 
+step =761
+ 
+step =761
+ 
+step =761
+ktemp0_1_max = 0.116116
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.330612
+ 
+step =762
+ 
+step =762
+ktemp0_1_max = 0.116484
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.333009
+ 
+step =763
+ 
+step =763
+ktemp0_1_max = 0.116745
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.335515
+ 
+step =764
+ 
+step =764
+ktemp0_1_max = 0.116982
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.337961
+ 
+step =765
+ 
+step =765
+ktemp0_1_max = 0.117192
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.340413
+ 
+step =766
+ 
+step =766
+ 
+step =766
+ktemp0_1_max = 0.117392
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.342833
+ 
+step =767
+ 
+step =767
+ktemp0_1_max = 0.117637
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.345378
+ 
+step =768
+ 
+step =768
+ 
+step =768
+ktemp0_1_max = 0.117827
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.34782
+ 
+step =769
+ 
+step =769
+ 
+step =769
+ktemp0_1_max = 0.118094
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.350309
+ 
+step =770
+ 
+step =770
+ 
+step =770
+ktemp0_1_max = 0.11838
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.35291
+ 
+step =771
+ 
+step =771
+ 
+step =771
+ktemp0_1_max = 0.118684
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.355446
+ 
+step =772
+ 
+step =772
+ 
+step =772
+ktemp0_1_max = 0.11901
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.358165
+ 
+step =773
+ 
+step =773
+ktemp0_1_max = 0.119325
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.360965
+ 
+step =774
+ 
+step =774
+ 
+step =774
+ktemp0_1_max = 0.119559
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.363823
+ 
+step =775
+ 
+step =775
+ktemp0_1_max = 0.119859
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.366791
+ 
+step =776
+ 
+step =776
+ktemp0_1_max = 0.120068
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.369859
+ 
+step =777
+ 
+step =777
+ktemp0_1_max = 0.120298
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.373082
+ 
+step =778
+ 
+step =778
+ 
+step =778
+ktemp0_1_max = 0.120535
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.376351
+ 
+step =779
+ 
+step =779
+ 
+step =779
+ktemp0_1_max = 0.120834
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.379525
+ 
+step =780
+ 
+step =780
+ 
+step =780
+ktemp0_1_max = 0.121111
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.382648
+ 
+step =781
+ 
+step =781
+ 
+step =781
+ktemp0_1_max = 0.121425
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.3858
+ 
+step =782
+ 
+step =782
+ 
+step =782
+ktemp0_1_max = 0.121748
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.38888
+ 
+step =783
+ 
+step =783
+ktemp0_1_max = 0.122079
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.391846
+ 
+step =784
+ 
+step =784
+ 
+step =784
+ktemp0_1_max = 0.122379
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.394681
+ 
+step =785
+ 
+step =785
+ktemp0_1_max = 0.122789
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.397574
+ 
+step =786
+ 
+step =786
+ktemp0_1_max = 0.123155
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.400647
+ 
+step =787
+ 
+step =787
+ 
+step =787
+ktemp0_1_max = 0.123524
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.403798
+ 
+step =788
+ 
+step =788
+ktemp0_1_max = 0.124005
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.406974
+ 
+step =789
+ 
+step =789
+ 
+step =789
+ktemp0_1_max = 0.124444
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.410313
+ 
+step =790
+ 
+step =790
+ 
+step =790
+ktemp0_1_max = 0.12497
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.41377
+ 
+step =791
+ 
+step =791
+ 
+step =791
+ktemp0_1_max = 0.125536
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.417442
+ 
+step =792
+ 
+step =792
+ktemp0_1_max = 0.126105
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.421169
+ 
+step =793
+ 
+step =793
+ 
+step =793
+ktemp0_1_max = 0.126636
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.425066
+ 
+step =794
+ 
+step =794
+ktemp0_1_max = 0.127245
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.429138
+ 
+step =795
+ 
+step =795
+ktemp0_1_max = 0.12784
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.433403
+ 
+step =796
+ 
+step =796
+ktemp0_1_max = 0.12844
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.437926
+ 
+step =797
+ 
+step =797
+ 
+step =797
+ktemp0_1_max = 0.129082
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.442631
+ 
+step =798
+ 
+step =798
+ 
+step =798
+ktemp0_1_max = 0.129838
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.447416
+ 
+step =799
+ 
+step =799
+ 
+step =799
+ktemp0_1_max = 0.130682
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.452265
+ 
+step =800
+ 
+step =800
+ktemp0_1_max = 0.131538
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.457181
+ 
+step =801
+ 
+step =801
+ 
+step =801
+ktemp0_1_max = 0.132325
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.46226
+ 
+step =802
+ 
+step =802
+ktemp0_1_max = 0.133188
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.467408
+ 
+step =803
+ 
+step =803
+ktemp0_1_max = 0.133973
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.472722
+ 
+step =804
+ 
+step =804
+ktemp0_1_max = 0.134751
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.477895
+ 
+step =805
+ 
+step =805
+ 
+step =805
+ktemp0_1_max = 0.135573
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.483168
+ 
+step =806
+ 
+step =806
+ktemp0_1_max = 0.136498
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.488435
+ 
+step =807
+ 
+step =807
+ 
+step =807
+ktemp0_1_max = 0.137317
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.493695
+ 
+step =808
+ 
+step =808
+ktemp0_1_max = 0.13817
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.499131
+ 
+step =809
+ 
+step =809
+ktemp0_1_max = 0.13895
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.504587
+ 
+step =810
+ 
+step =810
+ 
+step =810
+ktemp0_1_max = 0.139685
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.510033
+ 
+step =811
+ 
+step =811
+ktemp0_1_max = 0.140463
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.515461
+ 
+step =812
+ 
+step =812
+ 
+step =812
+ktemp0_1_max = 0.141222
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.52066
+ 
+step =813
+ 
+step =813
+ktemp0_1_max = 0.142007
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.525998
+ 
+step =814
+ 
+step =814
+ 
+step =814
+ktemp0_1_max = 0.14275
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.531346
+ 
+step =815
+ 
+step =815
+ktemp0_1_max = 0.143574
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.536705
+ 
+step =816
+ 
+step =816
+ 
+step =816
+ktemp0_1_max = 0.144455
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.542035
+ 
+step =817
+ 
+step =817
+ktemp0_1_max = 0.145338
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.547438
+ 
+step =818
+ 
+step =818
+ 
+step =818
+ktemp0_1_max = 0.146217
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.5527
+ 
+step =819
+ 
+step =819
+ktemp0_1_max = 0.147124
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.558002
+ 
+step =820
+ 
+step =820
+ 
+step =820
+ktemp0_1_max = 0.148025
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.563263
+ 
+step =821
+ 
+step =821
+ 
+step =821
+ktemp0_1_max = 0.148937
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.56873
+ 
+step =822
+ 
+step =822
+ 
+step =822
+ktemp0_1_max = 0.149825
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.574258
+ 
+step =823
+ 
+step =823
+ 
+step =823
+ktemp0_1_max = 0.150679
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.579919
+ 
+step =824
+ 
+step =824
+ktemp0_1_max = 0.151514
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.585573
+ 
+step =825
+ 
+step =825
+ 
+step =825
+ktemp0_1_max = 0.152381
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.591224
+ 
+step =826
+ 
+step =826
+ktemp0_1_max = 0.153209
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.597142
+ 
+step =827
+ 
+step =827
+ 
+step =827
+ktemp0_1_max = 0.154105
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.603018
+ 
+step =828
+ 
+step =828
+ 
+step =828
+ktemp0_1_max = 0.154974
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.609255
+ 
+step =829
+ 
+step =829
+ 
+step =829
+ktemp0_1_max = 0.155864
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.615643
+ 
+step =830
+ 
+step =830
+ 
+step =830
+ktemp0_1_max = 0.15673
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.622207
+ 
+step =831
+ 
+step =831
+ 
+step =831
+ktemp0_1_max = 0.157574
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.628875
+ 
+step =832
+ 
+step =832
+ktemp0_1_max = 0.158419
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.635993
+ 
+step =833
+ 
+step =833
+ 
+step =833
+ktemp0_1_max = 0.159238
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.64316
+ 
+step =834
+ 
+step =834
+ktemp0_1_max = 0.159909
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.650984
+ 
+step =835
+ 
+step =835
+ 
+step =835
+ktemp0_1_max = 0.160662
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.658822
+ 
+step =836
+ 
+step =836
+ktemp0_1_max = 0.161298
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.667227
+ 
+step =837
+ 
+step =837
+ 
+step =837
+ktemp0_1_max = 0.161928
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.675494
+ 
+step =838
+ 
+step =838
+ktemp0_1_max = 0.162483
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.68427
+ 
+step =839
+ 
+step =839
+ 
+step =839
+ktemp0_1_max = 0.163073
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.692797
+ 
+step =840
+ 
+step =840
+ktemp0_1_max = 0.16358
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.701883
+ 
+step =841
+ 
+step =841
+ktemp0_1_max = 0.164126
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.710791
+ 
+step =842
+ 
+step =842
+ 
+step =842
+ktemp0_1_max = 0.164649
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.719839
+ 
+step =843
+ 
+step =843
+ktemp0_1_max = 0.165221
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.729464
+ 
+step =844
+ 
+step =844
+ 
+step =844
+ktemp0_1_max = 0.166293
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.738556
+ 
+step =845
+ 
+step =845
+ktemp0_1_max = 0.168349
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.748138
+ 
+step =846
+ 
+step =846
+ 
+step =846
+ktemp0_1_max = 0.170152
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.757247
+ 
+step =847
+ 
+step =847
+ktemp0_1_max = 0.172229
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.76694
+ 
+step =848
+ 
+step =848
+ktemp0_1_max = 0.173978
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.77629
+ 
+step =849
+ 
+step =849
+ktemp0_1_max = 0.175745
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.785592
+ 
+step =850
+ 
+step =850
+ktemp0_1_max = 0.177484
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.795003
+ 
+step =851
+ 
+step =851
+ktemp0_1_max = 0.179132
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.804544
+ 
+step =852
+ 
+step =852
+ 
+step =852
+ktemp0_1_max = 0.180729
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.814334
+ 
+step =853
+ 
+step =853
+ktemp0_1_max = 0.184309
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.824641
+ 
+step =854
+ 
+step =854
+ktemp0_1_max = 0.187216
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.834488
+ 
+step =855
+ 
+step =855
+ktemp0_1_max = 0.190372
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.844582
+ 
+step =856
+ 
+step =856
+ktemp0_1_max = 0.193693
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.854789
+ 
+step =857
+ 
+step =857
+ktemp0_1_max = 0.197095
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.865282
+ 
+step =858
+ 
+step =858
+ktemp0_1_max = 0.200599
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.875915
+ 
+step =859
+ 
+step =859
+ktemp0_1_max = 0.204184
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.88667
+ 
+step =860
+ 
+step =860
+ktemp0_1_max = 0.207865
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.897506
+ 
+step =861
+ 
+step =861
+ktemp0_1_max = 0.21161
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.908439
+ 
+step =862
+ 
+step =862
+ktemp0_1_max = 0.21538
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.919477
+ 
+step =863
+ 
+step =863
+ 
+step =863
+ktemp0_1_max = 0.219237
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.930737
+ 
+step =864
+ 
+step =864
+ktemp0_1_max = 0.223802
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.942872
+ 
+step =865
+ 
+step =865
+ktemp0_1_max = 0.227414
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.954582
+ 
+step =866
+ 
+step =866
+ktemp0_1_max = 0.231317
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.966554
+ 
+step =867
+ 
+step =867
+ktemp0_1_max = 0.235311
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.978785
+ 
+step =868
+ 
+step =868
+ktemp0_1_max = 0.239364
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 0.991291
+ 
+step =869
+ 
+step =869
+ktemp0_1_max = 0.243491
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.00391
+ 
+step =870
+ 
+step =870
+ktemp0_1_max = 0.247629
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.01663
+ 
+step =871
+ 
+step =871
+ktemp0_1_max = 0.251823
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.02955
+ 
+step =872
+ 
+step =872
+ktemp0_1_max = 0.256083
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.04247
+ 
+step =873
+ 
+step =873
+ktemp0_1_max = 0.260426
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.05547
+ 
+step =874
+ 
+step =874
+ktemp0_1_max = 0.264852
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.06859
+ 
+step =875
+ 
+step =875
+ktemp0_1_max = 0.269324
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.08195
+ 
+step =876
+ 
+step =876
+ktemp0_1_max = 0.273837
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.09545
+ 
+step =877
+ 
+step =877
+ktemp0_1_max = 0.278463
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.10914
+ 
+step =878
+ 
+step =878
+ktemp0_1_max = 0.283182
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.12344
+ 
+step =879
+ 
+step =879
+ktemp0_1_max = 0.287949
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.13893
+ 
+step =880
+ 
+step =880
+ 
+step =880
+ktemp0_1_max = 0.292717
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.1547
+ 
+step =881
+ 
+step =881
+ 
+step =881
+ktemp0_1_max = 0.298308
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.17243
+ 
+step =882
+ 
+step =882
+ktemp0_1_max = 0.303296
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.18993
+ 
+step =883
+ 
+step =883
+ 
+step =883
+ktemp0_1_max = 0.307578
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.20598
+ 
+step =884
+ 
+step =884
+ 
+step =884
+ktemp0_1_max = 0.313001
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.2241
+ 
+step =885
+ 
+step =885
+ktemp0_1_max = 0.318178
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.24239
+ 
+step =886
+ 
+step =886
+ktemp0_1_max = 0.322759
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.25938
+ 
+step =887
+ 
+step =887
+ktemp0_1_max = 0.327781
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.27668
+ 
+step =888
+ 
+step =888
+ktemp0_1_max = 0.333062
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.29447
+ 
+step =889
+ 
+step =889
+ktemp0_1_max = 0.338476
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.31256
+ 
+step =890
+ 
+step =890
+ktemp0_1_max = 0.343951
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.33083
+ 
+step =891
+ 
+step =891
+ktemp0_1_max = 0.349496
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.34928
+ 
+step =892
+ 
+step =892
+ 
+step =892
+ktemp0_1_max = 0.355124
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.36811
+ 
+step =893
+ 
+step =893
+ktemp0_1_max = 0.361593
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.38888
+ 
+step =894
+ 
+step =894
+ 
+step =894
+ktemp0_1_max = 0.366923
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.40837
+ 
+step =895
+ 
+step =895
+ktemp0_1_max = 0.373252
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.42997
+ 
+step =896
+ 
+step =896
+ 
+step =896
+ktemp0_1_max = 0.378644
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.44999
+ 
+step =897
+ 
+step =897
+ 
+step =897
+ktemp0_1_max = 0.385077
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.47223
+ 
+step =898
+ 
+step =898
+ 
+step =898
+ktemp0_1_max = 0.391207
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.49448
+ 
+step =899
+ 
+step =899
+ 
+step =899
+ktemp0_1_max = 0.397403
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.51691
+ 
+step =900
+ 
+step =900
+ 
+step =900
+ktemp0_1_max = 0.403706
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.53964
+ 
+step =901
+ 
+step =901
+ 
+step =901
+ktemp0_1_max = 0.41011
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.5624
+ 
+step =902
+ 
+step =902
+ktemp0_1_max = 0.416616
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.58536
+ 
+step =903
+ 
+step =903
+ 
+step =903
+ktemp0_1_max = 0.422672
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.60695
+ 
+step =904
+ 
+step =904
+ 
+step =904
+ktemp0_1_max = 0.429858
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.63073
+ 
+step =905
+ 
+step =905
+ 
+step =905
+ktemp0_1_max = 0.436828
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.65472
+ 
+step =906
+ 
+step =906
+ 
+step =906
+ktemp0_1_max = 0.443856
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.6791
+ 
+step =907
+ 
+step =907
+ 
+step =907
+ktemp0_1_max = 0.450964
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.70391
+ 
+step =908
+ 
+step =908
+ 
+step =908
+ktemp0_1_max = 0.458202
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.72918
+ 
+step =909
+ 
+step =909
+ktemp0_1_max = 0.4655
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.75477
+ 
+step =910
+ 
+step =910
+ 
+step =910
+ktemp0_1_max = 0.472305
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.77904
+ 
+step =911
+ 
+step =911
+ 
+step =911
+ktemp0_1_max = 0.480068
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.80549
+ 
+step =912
+ 
+step =912
+ 
+step =912
+ktemp0_1_max = 0.487551
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.8322
+ 
+step =913
+ 
+step =913
+ 
+step =913
+ktemp0_1_max = 0.494999
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.85917
+ 
+step =914
+ 
+step =914
+ 
+step =914
+ktemp0_1_max = 0.502491
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.88649
+ 
+step =915
+ 
+step =915
+ 
+step =915
+ktemp0_1_max = 0.509979
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.91438
+ 
+step =916
+ 
+step =916
+ 
+step =916
+ktemp0_1_max = 0.517542
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.94275
+ 
+step =917
+ 
+step =917
+ 
+step =917
+ktemp0_1_max = 0.525222
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 1.9716
+ 
+step =918
+ 
+step =918
+ 
+step =918
+ktemp0_1_max = 0.533033
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.00104
+ 
+step =919
+ 
+step =919
+ktemp0_1_max = 0.540912
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.03105
+ 
+step =920
+ 
+step =920
+ 
+step =920
+ktemp0_1_max = 0.54842
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.05973
+ 
+step =921
+ 
+step =921
+ 
+step =921
+ktemp0_1_max = 0.556928
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.09119
+ 
+step =922
+ 
+step =922
+ 
+step =922
+ktemp0_1_max = 0.565291
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.12308
+ 
+step =923
+ 
+step =923
+ 
+step =923
+ktemp0_1_max = 0.573623
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.15543
+ 
+step =924
+ 
+step =924
+ktemp0_1_max = 0.581989
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.18837
+ 
+step =925
+ 
+step =925
+ 
+step =925
+ktemp0_1_max = 0.589908
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.21983
+ 
+step =926
+ 
+step =926
+ 
+step =926
+ktemp0_1_max = 0.598777
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.25413
+ 
+step =927
+ 
+step =927
+ 
+step =927
+ktemp0_1_max = 0.607434
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.2889
+ 
+step =928
+ 
+step =928
+ 
+step =928
+ktemp0_1_max = 0.616125
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.32413
+ 
+step =929
+ 
+step =929
+ 
+step =929
+ktemp0_1_max = 0.624901
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.35981
+ 
+step =930
+ 
+step =930
+ 
+step =930
+ktemp0_1_max = 0.63383
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.39591
+ 
+step =931
+ 
+step =931
+ 
+step =931
+ktemp0_1_max = 0.642914
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.43265
+ 
+step =932
+ 
+step =932
+ 
+step =932
+ktemp0_1_max = 0.652152
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.46984
+ 
+step =933
+ 
+step =933
+ 
+step =933
+ktemp0_1_max = 0.661516
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.50748
+ 
+step =934
+ 
+step =934
+ 
+step =934
+ktemp0_1_max = 0.671004
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.5457
+ 
+step =935
+ 
+step =935
+ 
+step =935
+ktemp0_1_max = 0.680653
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.58469
+ 
+step =936
+ 
+step =936
+ 
+step =936
+ktemp0_1_max = 0.690486
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.6243
+ 
+step =937
+ 
+step =937
+ktemp0_1_max = 0.700453
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.66441
+ 
+step =938
+ 
+step =938
+ 
+step =938
+ktemp0_1_max = 0.710185
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.70306
+ 
+step =939
+ 
+step =939
+ 
+step =939
+ktemp0_1_max = 0.720967
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.74467
+ 
+step =940
+ 
+step =940
+ 
+step =940
+ktemp0_1_max = 0.731503
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.78651
+ 
+step =941
+ 
+step =941
+ 
+step =941
+ktemp0_1_max = 0.742086
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.82894
+ 
+step =942
+ 
+step =942
+ 
+step =942
+ktemp0_1_max = 0.752777
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.87193
+ 
+step =943
+ 
+step =943
+ 
+step =943
+ktemp0_1_max = 0.763588
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.9158
+ 
+step =944
+ 
+step =944
+ 
+step =944
+ktemp0_1_max = 0.774527
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 2.96044
+ 
+step =945
+ 
+step =945
+ 
+step =945
+ktemp0_1_max = 0.785662
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.0059
+ 
+step =946
+ 
+step =946
+ 
+step =946
+ktemp0_1_max = 0.796969
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.05215
+ 
+step =947
+ 
+step =947
+ 
+step =947
+ktemp0_1_max = 0.808596
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.09912
+ 
+step =948
+ 
+step =948
+ 
+step =948
+ktemp0_1_max = 0.820427
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.14679
+ 
+step =949
+ 
+step =949
+ 
+step =949
+ktemp0_1_max = 0.832373
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.19524
+ 
+step =950
+ 
+step =950
+ 
+step =950
+ktemp0_1_max = 0.844476
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.24453
+ 
+step =951
+ 
+step =951
+ 
+step =951
+ktemp0_1_max = 0.856673
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.29479
+ 
+step =952
+ 
+step =952
+ 
+step =952
+ktemp0_1_max = 0.869104
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.34602
+ 
+step =953
+ 
+step =953
+ 
+step =953
+ktemp0_1_max = 0.881756
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.39835
+ 
+step =954
+ 
+step =954
+ 
+step =954
+ktemp0_1_max = 0.894664
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.45187
+ 
+step =955
+ 
+step =955
+ 
+step =955
+ktemp0_1_max = 0.907798
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.50673
+ 
+step =956
+ 
+step =956
+ 
+step =956
+ktemp0_1_max = 0.921087
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.5627
+ 
+step =957
+ 
+step =957
+ 
+step =957
+ktemp0_1_max = 0.93465
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.61973
+ 
+step =958
+ 
+step =958
+ 
+step =958
+ktemp0_1_max = 0.948464
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.67767
+ 
+step =959
+ 
+step =959
+ 
+step =959
+ktemp0_1_max = 0.962495
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.73665
+ 
+step =960
+ 
+step =960
+ 
+step =960
+ktemp0_1_max = 0.976789
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.79675
+ 
+step =961
+ 
+step =961
+ 
+step =961
+ktemp0_1_max = 0.991387
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.85772
+ 
+step =962
+ 
+step =962
+ 
+step =962
+ktemp0_1_max = 1.00615
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.91942
+ 
+step =963
+ 
+step =963
+ 
+step =963
+ktemp0_1_max = 1.02118
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 3.98201
+ 
+step =964
+ 
+step =964
+ 
+step =964
+ktemp0_1_max = 1.03639
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.04568
+ 
+step =965
+ 
+step =965
+ 
+step =965
+ktemp0_1_max = 1.05181
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.11048
+ 
+step =966
+ 
+step =966
+ 
+step =966
+ktemp0_1_max = 1.06751
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.17641
+ 
+step =967
+ 
+step =967
+ 
+step =967
+ktemp0_1_max = 1.08336
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.24347
+ 
+step =968
+ 
+step =968
+ 
+step =968
+ktemp0_1_max = 1.09947
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.31179
+ 
+step =969
+ 
+step =969
+ 
+step =969
+ktemp0_1_max = 1.11583
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.38155
+ 
+step =970
+ 
+step =970
+ 
+step =970
+ktemp0_1_max = 1.13234
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.45277
+ 
+step =971
+ 
+step =971
+ 
+step =971
+ktemp0_1_max = 1.14905
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.52531
+ 
+step =972
+ 
+step =972
+ 
+step =972
+ktemp0_1_max = 1.16597
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.59926
+ 
+step =973
+ 
+step =973
+ 
+step =973
+ktemp0_1_max = 1.18295
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.67444
+ 
+step =974
+ 
+step =974
+ 
+step =974
+ktemp0_1_max = 1.20008
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.75083
+ 
+step =975
+ 
+step =975
+ 
+step =975
+ktemp0_1_max = 1.21738
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.82848
+ 
+step =976
+ 
+step =976
+ 
+step =976
+ktemp0_1_max = 1.2348
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.90712
+ 
+step =977
+ 
+step =977
+ 
+step =977
+ktemp0_1_max = 1.25231
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 4.98701
+ 
+step =978
+ 
+step =978
+ 
+step =978
+ktemp0_1_max = 1.26996
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.06796
+ 
+step =979
+ 
+step =979
+ 
+step =979
+ktemp0_1_max = 1.28771
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.14996
+ 
+step =980
+ 
+step =980
+ 
+step =980
+ktemp0_1_max = 1.3055
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.23303
+ 
+step =981
+ 
+step =981
+ 
+step =981
+ktemp0_1_max = 1.32336
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.31726
+ 
+step =982
+ 
+step =982
+ 
+step =982
+ktemp0_1_max = 1.34139
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.4027
+ 
+step =983
+ 
+step =983
+ 
+step =983
+ktemp0_1_max = 1.35958
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.4894
+ 
+step =984
+ 
+step =984
+ 
+step =984
+ktemp0_1_max = 1.37765
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.57987
+ 
+step =985
+ 
+step =985
+ 
+step =985
+ktemp0_1_max = 1.39567
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.67416
+ 
+step =986
+ 
+step =986
+ 
+step =986
+ktemp0_1_max = 1.41368
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.77017
+ 
+step =987
+ 
+step =987
+ 
+step =987
+ktemp0_1_max = 1.43176
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.86788
+ 
+step =988
+ 
+step =988
+ 
+step =988
+ktemp0_1_max = 1.4499
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 5.96739
+ 
+step =989
+ 
+step =989
+ 
+step =989
+ktemp0_1_max = 1.46802
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.06859
+ 
+step =990
+ 
+step =990
+ 
+step =990
+ktemp0_1_max = 1.48618
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.17137
+ 
+step =991
+ 
+step =991
+ 
+step =991
+ktemp0_1_max = 1.50426
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.27602
+ 
+step =992
+ 
+step =992
+ 
+step =992
+ 
+step =992
+ktemp0_1_max = 1.52232
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.38244
+ 
+step =993
+ 
+step =993
+ 
+step =993
+ 
+step =993
+ktemp0_1_max = 1.54002
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.49494
+ 
+step =993
+ 
+step =993
+ 
+step =993
+ 
+step =993
+ktemp0_1_max = 1.55797
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.60923
+ 
+step =994
+ 
+step =994
+ 
+step =994
+ 
+step =994
+ktemp0_1_max = 1.57622
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.72497
+ 
+step =995
+ 
+step =995
+ 
+step =995
+ 
+step =995
+ktemp0_1_max = 1.59466
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.84258
+ 
+step =995
+ 
+step =995
+ 
+step =995
+ 
+step =995
+ktemp0_1_max = 1.61342
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 6.96193
+ 
+step =995
+ 
+step =995
+ 
+step =995
+ktemp0_1_max = 1.6324
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.08275
+ 
+step =995
+ 
+step =995
+ 
+step =995
+ktemp0_1_max = 1.65199
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.20135
+ 
+step =995
+ 
+step =995
+ 
+step =995
+ktemp0_1_max = 1.67151
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.32141
+ 
+step =995
+ 
+step =995
+ 
+step =995
+ktemp0_1_max = 1.69095
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.44342
+ 
+step =996
+ 
+step =996
+ 
+step =996
+ktemp0_1_max = 1.71028
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.56743
+ 
+step =997
+ 
+step =997
+ 
+step =997
+ktemp0_1_max = 1.72933
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.6933
+ 
+step =998
+ 
+step =998
+ 
+step =998
+ktemp0_1_max = 1.7481
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.82105
+ 
+step =999
+ 
+step =999
+ 
+step =999
+ktemp0_1_max = 1.76842
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 7.95075
+ 
+step =1000
+ 
+step =1000
+ 
+step =1000
+ktemp0_1_max = 1.79845
+ktemp0_2_max = 0
+ktemp1_1_max = 0
+ktemp1_2_max = 8.08258

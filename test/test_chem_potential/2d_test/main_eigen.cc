@@ -712,6 +712,13 @@ void calc_lap(double ** lap, fftw_complex ** klap, fftw_complex ** keta, double 
     }
 }
 
+std::string zeroFill(int x)
+{
+    std::stringstream ss;
+    ss << std::setw(6) << std::setfill('0') << x;
+    return ss.str();
+}
+
 
 void output(std::string path, double * data, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
 {
@@ -745,12 +752,129 @@ void output(std::string path, double * data, ptrdiff_t N0, ptrdiff_t N1, ptrdiff
 
 }
 
-std::string zeroFill(int x)
+void input(std::string path, double * data, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
 {
-    std::stringstream ss;
-    ss << std::setw(6) << std::setfill('0') << x;
-    return ss.str();
+    int np, rank;
+    double * buffer;
+    int alloc_local = local_n0 * (N1/2+1);
+    int tag = 0;
+    MPI_Status status;
+    int dims[2] = {N0, 2*(N1/2+1)};
+
+    MPI_Comm_size(MPI_COMM_WORLD, &np);
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+
+    if ( rank == 0 ) {
+        buffer = new double [N0*2*(N1/2+1)];
+
+        H5File h5;
+        h5.open("out.h5", "a");
+        h5.read_dataset(path, buffer);
+        h5.close();}
+
+        memcpy(data, buffer + rank*2*alloc_local*sizeof(double), 2*alloc_local*sizeof(double));
+        delete [] buffer;
+
 }
+
+void output_restart(std::string path, double * data, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
+{
+       int np, rank;
+    double * buffer;
+    int alloc_local = local_n0 * (N1/2+1);
+    int tag = 0;
+    MPI_Status status;
+    int dims[2] = {N0, 2*(N1/2+1)};
+
+    MPI_Comm_size(MPI_COMM_WORLD, &np);
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+
+    if ( rank == 0 ) {
+        buffer = new double [N0*2*(N1/2+1)];
+        memcpy(buffer, data, 2*alloc_local*sizeof(double));
+
+        for (int i=1; i<np; i++)
+            MPI_Recv(buffer + i*2*alloc_local, 2*alloc_local, MPI_DOUBLE, i, tag, MPI_COMM_WORLD, &status);
+
+        H5File h5;
+        h5.open("restart.h5", "a");
+        h5.write_dataset(path, buffer, dims, 2);
+        h5.close();
+
+        delete [] buffer;
+    } else {
+        MPI_Send(data, 2*alloc_local, MPI_DOUBLE, 0, tag, MPI_COMM_WORLD);
+    }
+}
+
+void input_restart(std::string path, double * data, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
+{
+    int np, rank;
+    double * buffer;
+    int alloc_local = local_n0 * (N1/2+1);
+    int tag = 0;
+    MPI_Status status;
+    int dims[2] = {N0, 2*(N1/2+1)};
+
+    MPI_Comm_size(MPI_COMM_WORLD, &np);
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+
+    if ( rank == 0 ) {
+        buffer = new double [N0*2*(N1/2+1)];
+
+        H5File h5;
+        h5.open("restart.h5", "a");
+        h5.read_dataset(path, buffer);
+        h5.close();}
+
+        memcpy(data, buffer + rank*2*alloc_local*sizeof(double), 2*alloc_local*sizeof(double));
+        delete [] buffer;
+
+}
+
+void write_restart(double step, double * w, double ** dw, double ** ddw, double * w_old, double ** eta, double ** eta_old, double *** eps00, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
+{
+    output_restart("w/"+zeroFill(step), w, N0, N1, local_n0);
+    output_restart("dw[0]/"+zeroFill(step), dw[0], N0, N1, local_n0);
+    output_restart("dw[1]/"+zeroFill(step), dw[1], N0, N1, local_n0);
+    output_restart("ddw[0]/"+zeroFill(step), ddw[0], N0, N1, local_n0);
+    output_restart("ddw[1]/"+zeroFill(step), ddw[1], N0, N1, local_n0);
+    output_restart("ddw[2]/"+zeroFill(step), ddw[2], N0, N1, local_n0);
+    output_restart("eta[0]/"+zeroFill(step), eta[0], N0, N1, local_n0);
+    output_restart("eta[1]/"+zeroFill(step), eta[1], N0, N1, local_n0);
+    output_restart("eta[2]/"+zeroFill(step), eta[2], N0, N1, local_n0);
+    output_restart("eta_old[0]/"+zeroFill(step), eta_old[0], N0, N1, local_n0);
+    output_restart("eta_old[1]/"+zeroFill(step), eta_old[1], N0, N1, local_n0);
+    output_restart("eta_old[2]/"+zeroFill(step), eta_old[2], N0, N1, local_n0);
+    output_restart("w_old/"+zeroFill(step), w_old, N0, N1, local_n0);
+    output_restart("eps00[0][0]/"+zeroFill(step), eps00[0][0], N0, N1, local_n0);
+    output_restart("eps00[0][1]/"+zeroFill(step), eps00[0][1], N0, N1, local_n0);
+    output_restart("eps00[1][0]/"+zeroFill(step), eps00[1][0], N0, N1, local_n0);
+    output_restart("eps00[1][1]/"+zeroFill(step), eps00[1][1], N0, N1, local_n0);
+}
+
+void read_restart(double step, double * w, double ** dw, double ** ddw, double * w_old, double ** eta, double ** eta_old, double *** eps00, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
+{
+    input_restart("w/"+zeroFill(step), w, N0, N1, local_n0);
+    input_restart("dw[0]/"+zeroFill(step), dw[0], N0, N1, local_n0);
+    input_restart("dw[1]/"+zeroFill(step), dw[1], N0, N1, local_n0);
+    input_restart("ddw[0]/"+zeroFill(step), ddw[0], N0, N1, local_n0);
+    input_restart("ddw[1]/"+zeroFill(step), ddw[1], N0, N1, local_n0);
+    input_restart("ddw[2]/"+zeroFill(step), ddw[2], N0, N1, local_n0);
+    input_restart("eta[0]/"+zeroFill(step), eta[0], N0, N1, local_n0);
+    input_restart("eta[1]/"+zeroFill(step), eta[1], N0, N1, local_n0);
+    input_restart("eta[2]/"+zeroFill(step), eta[2], N0, N1, local_n0);
+    input_restart("eta_old[0]/"+zeroFill(step), eta_old[0], N0, N1, local_n0);
+    input_restart("eta_old[1]/"+zeroFill(step), eta_old[1], N0, N1, local_n0);
+    input_restart("eta_old[2]/"+zeroFill(step), eta_old[2], N0, N1, local_n0);
+    input_restart("w_old/"+zeroFill(step), w_old, N0, N1, local_n0);
+    input_restart("eps00[0][0]/"+zeroFill(step), eps00[0][0], N0, N1, local_n0);
+    input_restart("eps00[0][1]/"+zeroFill(step), eps00[0][1], N0, N1, local_n0);
+    input_restart("eps00[1][0]/"+zeroFill(step), eps00[1][0], N0, N1, local_n0);
+    input_restart("eps00[1][1]/"+zeroFill(step), eps00[1][1], N0, N1, local_n0);
+}
+
+
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 void interpolate(double * data, double m0, double m1, double * phi, 
@@ -1714,7 +1838,8 @@ int main(int argc, char ** argv)
 
     FILE * fp = fopen("area_fraction.dat", "w");
     fclose(fp);   
-
+ 
+    //read_restart(step, w, dw, ddw, w_old, eta, eta_old, eps00, N0, N1, local_n0);
     
 
     // begin the simulation loop
@@ -1735,7 +1860,7 @@ int main(int argc, char ** argv)
     {
         // increase load on system
         epsbar[0][0] = ip.epsx * (step/(double)ip.nsteps);
-        epsbar[1][1] = ip.epsy * (step/(double)ip.nsteps);
+        epsbar[1][1] = ip.epsy * (step/(double)ip.nsteps)+0.1;
         epsbar[0][1] = 0;
         epsbar[1][0] = 0;
         calc_sigbar(sigbar,epsbar, lam, local_n0, N1);
@@ -1850,6 +1975,13 @@ int main(int argc, char ** argv)
             output("uy/"+zeroFill(frame), uy, N0, N1, local_n0);
  
        }
+
+       H5File h5;
+       h5.open("restart.h5", "w");
+       h5.close();
+       if ((step == 100)||(step == 110)||(step == 80))      
+       write_restart(step, w, dw, ddw, w_old, eta, eta_old, eps00, N0, N1, local_n0);  
+     
     }
     
     fftw_mpi_cleanup();
