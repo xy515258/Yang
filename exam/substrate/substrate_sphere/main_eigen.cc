@@ -807,6 +807,104 @@ std::string zeroFill(int x)
     return ss.str();
 }
 
+void output_restart(std::string path, double * data, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
+{
+       int np, rank;
+    double * buffer;
+    int alloc_local = local_n0 * (N1/2+1);
+    int tag = 0;
+    MPI_Status status;
+    int dims[2] = {N0, 2*(N1/2+1)};
+
+    MPI_Comm_size(MPI_COMM_WORLD, &np);
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+
+    if ( rank == 0 ) {
+        buffer = new double [N0*2*(N1/2+1)];
+        memcpy(buffer, data, 2*alloc_local*sizeof(double));
+
+        for (int i=1; i<np; i++)
+            MPI_Recv(buffer + i*2*alloc_local, 2*alloc_local, MPI_DOUBLE, i, tag, MPI_COMM_WORLD, &status);
+
+        H5File h5;
+        h5.open("restart.h5", "a");
+        h5.write_dataset(path, buffer, dims, 2);
+        h5.close();
+
+        delete [] buffer;
+    } else {
+        MPI_Send(data, 2*alloc_local, MPI_DOUBLE, 0, tag, MPI_COMM_WORLD);
+    }
+}
+
+void input_restart(std::string path, double * data, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
+{
+    int np, rank;
+    double * buffer;
+    int alloc_local = local_n0 * (N1/2+1);
+    int tag = 0;
+    MPI_Status status;
+    int dims[2] = {N0, 2*(N1/2+1)};
+
+    MPI_Comm_size(MPI_COMM_WORLD, &np);
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+
+    if ( rank == 0 ) {
+        buffer = new double [N0*2*(N1/2+1)];
+
+        H5File h5;
+        h5.open("restart.h5", "a");
+        h5.read_dataset(path, buffer);
+        h5.close();}
+
+        memcpy(data, buffer + rank*2*alloc_local*sizeof(double), 2*alloc_local*sizeof(double));
+        delete [] buffer;
+
+}
+
+void write_restart(double step, double * w, double ** dw, double ** ddw, double * w_old, double ** eta, double ** eta_old, double *** eps00, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
+{
+    output_restart("w/"+zeroFill(step), w, N0, N1, local_n0);
+    output_restart("dw[0]/"+zeroFill(step), dw[0], N0, N1, local_n0);
+    output_restart("dw[1]/"+zeroFill(step), dw[1], N0, N1, local_n0);
+    output_restart("ddw[0]/"+zeroFill(step), ddw[0], N0, N1, local_n0);
+    output_restart("ddw[1]/"+zeroFill(step), ddw[1], N0, N1, local_n0);
+    output_restart("ddw[2]/"+zeroFill(step), ddw[2], N0, N1, local_n0);
+    output_restart("eta[0]/"+zeroFill(step), eta[0], N0, N1, local_n0);
+    output_restart("eta[1]/"+zeroFill(step), eta[1], N0, N1, local_n0);
+    output_restart("eta[2]/"+zeroFill(step), eta[2], N0, N1, local_n0);
+    output_restart("eta_old[0]/"+zeroFill(step), eta_old[0], N0, N1, local_n0);
+    output_restart("eta_old[1]/"+zeroFill(step), eta_old[1], N0, N1, local_n0);
+    output_restart("eta_old[2]/"+zeroFill(step), eta_old[2], N0, N1, local_n0);
+    output_restart("w_old/"+zeroFill(step), w_old, N0, N1, local_n0);
+    output_restart("eps00[0][0]/"+zeroFill(step), eps00[0][0], N0, N1, local_n0);
+    output_restart("eps00[0][1]/"+zeroFill(step), eps00[0][1], N0, N1, local_n0);
+    output_restart("eps00[1][0]/"+zeroFill(step), eps00[1][0], N0, N1, local_n0);
+    output_restart("eps00[1][1]/"+zeroFill(step), eps00[1][1], N0, N1, local_n0);
+}
+
+void read_restart(double step, double * w, double ** dw, double ** ddw, double * w_old, double ** eta, double ** eta_old, double *** eps00, ptrdiff_t N0, ptrdiff_t N1, ptrdiff_t local_n0)
+{
+    input_restart("w/"+zeroFill(step), w, N0, N1, local_n0);
+    input_restart("dw[0]/"+zeroFill(step), dw[0], N0, N1, local_n0);
+    input_restart("dw[1]/"+zeroFill(step), dw[1], N0, N1, local_n0);
+    input_restart("ddw[0]/"+zeroFill(step), ddw[0], N0, N1, local_n0);
+    input_restart("ddw[1]/"+zeroFill(step), ddw[1], N0, N1, local_n0);
+    input_restart("ddw[2]/"+zeroFill(step), ddw[2], N0, N1, local_n0);
+    input_restart("eta[0]/"+zeroFill(step), eta[0], N0, N1, local_n0);
+    input_restart("eta[1]/"+zeroFill(step), eta[1], N0, N1, local_n0);
+    input_restart("eta[2]/"+zeroFill(step), eta[2], N0, N1, local_n0);
+    input_restart("eta_old[0]/"+zeroFill(step), eta_old[0], N0, N1, local_n0);
+    input_restart("eta_old[1]/"+zeroFill(step), eta_old[1], N0, N1, local_n0);
+    input_restart("eta_old[2]/"+zeroFill(step), eta_old[2], N0, N1, local_n0);
+    input_restart("w_old/"+zeroFill(step), w_old, N0, N1, local_n0);
+    input_restart("eps00[0][0]/"+zeroFill(step), eps00[0][0], N0, N1, local_n0);
+    input_restart("eps00[0][1]/"+zeroFill(step), eps00[0][1], N0, N1, local_n0);
+    input_restart("eps00[1][0]/"+zeroFill(step), eps00[1][0], N0, N1, local_n0);
+    input_restart("eps00[1][1]/"+zeroFill(step), eps00[1][1], N0, N1, local_n0);
+}
+
+
 ////////////////////////////////////////////////////////////////////////////////////////////
 void interpolate(double * data, double m0, double m1, double * phi, 
                  ptrdiff_t local_n0, ptrdiff_t N1)
@@ -1304,8 +1402,8 @@ double update_eps00(double *** eps00, double *** eps00_new, double *** eps00_old
     {
         int ndx = i*N1r + j;
 
-        //eps00_new[ii][jj][ndx] = (-1)*ip.L_eps00*ip.dt*dFdeps00[ii][jj][ndx] + eps00[ii][jj][ndx];
-        eps00_new[ii][jj][ndx] = dtg2*(2*eps00[ii][jj][ndx] + (dtg-1)*eps00_old[ii][jj][ndx] - dta2*dFdeps00[ii][jj][ndx]);
+        eps00_new[ii][jj][ndx] = (-1)*ip.L_eps00*ip.dt*dFdeps00[ii][jj][ndx] + eps00[ii][jj][ndx];
+        //eps00_new[ii][jj][ndx] = dtg2*(2*eps00[ii][jj][ndx] + (dtg-1)*eps00_old[ii][jj][ndx] - dta2*dFdeps00[ii][jj][ndx]);
         double delta = fabs( eps00_new[ii][jj][ndx] - eps00[ii][jj][ndx] );
         change_eps00_max = std::max(change_eps00_max, delta);
 
@@ -1813,12 +1911,12 @@ int main(int argc, char ** argv)
 
     // initialize the system with in-plane heterogeneity
 
-    initialize_phi_1(phi,local_n0,N1);
+    //initialize_phi_1(phi,local_n0,N1);
     //initialize_lsf_circle(lsf, local_n0, local_0_start, N1);
-    //initialize_lsf_stripe(lsf, local_n0, local_0_start, N1);
+    initialize_lsf_stripe(lsf, local_n0, local_0_start, N1);
     //initialize_lsf_zigzag(lsf, local_n0, local_0_start, N1);
-    //diffuse_lsf(lsf, local_n0, N1);
-    //copy_lsf(lsf, phi, local_n0, N1);
+    diffuse_lsf(lsf, local_n0, N1);
+    copy_lsf(lsf, phi, local_n0, N1);
 
     for (int p=0; p<3; p++)
     for (int i=0; i<2; i++)
@@ -1856,10 +1954,13 @@ int main(int argc, char ** argv)
     output("phi", phi, N0, N1, local_n0);
     h5.close();
 
+    h5.open("restart.h5", "w");
+    h5.close();
+
     FILE * fp = fopen("area_fraction.dat", "w");
     fclose(fp);   
 
-    
+    //read_restart(step, w, dw, ddw, w_old, eta, eta_old, eps00, N0, N1, local_n0);
 
     // begin the simulation loop
     int frame = 0;
@@ -1875,8 +1976,8 @@ int main(int argc, char ** argv)
 
     //make_it_2D( w, dw, ddw, alloc_local);
     calc_epsbar_star(phi, epsbar_star, local_n0, N1, ip);
-    double ind_x = 100;
-    double ind_y = 100;
+    double ind_x = 50;
+    double ind_y = 50;
 
     std::ofstream myfile ("test.log", std::ofstream::out);
 
@@ -1888,7 +1989,7 @@ int main(int argc, char ** argv)
         epsbar[0][1] = 0;
         epsbar[1][0] = 0;
         calc_sigbar(sigbar,epsbar, lam, local_n0, N1);
-        double Radius = (step/(double)ip.nsteps)*40;
+        double Radius = (step/(double)ip.nsteps)*20;
 
         // iterative relaxation loop for eta_p parameters
         double change_etap_max = 1;
@@ -2012,7 +2113,11 @@ int main(int argc, char ** argv)
             output("dFdw_Pau/"+zeroFill(frame), dFdw_Pau, N0, N1, local_n0);
             output("dFdw/"+zeroFill(frame), dFdw, N0, N1, local_n0);
 
+       if ((step == 1100)||(step==1000)||(step==1050)||(step==1150))      
+       write_restart(step, w, dw, ddw, w_old, eta, eta_old, eps00, N0, N1, local_n0); 
+
  
+
        }
     }
     myfile.close();

@@ -1,10 +1,10 @@
 
-Nx = 200
-Ny = 200
+Nx = 100
+Ny = 100
 dx = 1.0 
 dt = 0.075
 
-nsteps   = 1000
+nsteps   = 2000
 out_freq = 50
 
 epsx = 0.
@@ -18,7 +18,7 @@ gamma_eps = 1
 gamma_w = 1
 alpha_eps = 3
 alpha_eta = 10
-alpha_w = 10
+alpha_w = 50
 kappa_el0 = 0.347
 kappa_el1 = 0.219298245614035 
 L_eps00 = 0.005
@@ -29,15 +29,15 @@ C0=126
 C1=84
 C2=0.000001
 
-mu_el0 = 1.56
-nu_el0 = 0.25
-mu_el1 = 1.
-nu_el1 = 0.24
+mu_el0 = 1.
+nu_el0 = 0.24
+mu_el1 = 0
+nu_el1 = 0
 
-M0_chem_a = 0.15
-M0_chem_b = 0.3
-M0_chem_c = 0.215102
-M0_chem_d = 0.0
+M0_chem_a = 0.055
+M0_chem_b = 0.04
+M0_chem_c = -0.335461
+M0_chem_d = 0.32
 
 M1_chem_a = 0.055
 M1_chem_b = 0.04
