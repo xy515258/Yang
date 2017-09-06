@@ -5,7 +5,7 @@ dx = 1.0
 dt = 0.075
 
 nsteps   = 500
-out_freq = 5
+out_freq = 50
 
 epsx = 0.
 epsy = 0.1

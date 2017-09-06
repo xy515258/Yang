@@ -1,0 +1,335 @@
+1  cepmax=0  ceps00max=0   Af=0
+w = 0.00491377    cwmax = 5.18176e-05Radius=0.0025
+1  cepmax=0  ceps00max=0   Af=0
+2  cepmax=0  ceps00max=6.17284e-05   Af=0
+w = 0.00985241    cwmax = 0.00491936Radius=0.005
+2  cepmax=0.2272  ceps00max=6.17284e-05   Af=0.000225
+2  cepmax=0  ceps00max=0.000121933   Af=0.000225
+w = 0.0147897    cwmax = 0.00490448Radius=0.005
+2  cepmax=0.159099  ceps00max=0.000121933   Af=0.00435
+2  cepmax=0  ceps00max=0.00018065   Af=0.00435
+w = 0.0196388    cwmax = 0.00486459Radius=0.005
+2  cepmax=0.106911  ceps00max=0.00018065   Af=0.008375
+2  cepmax=0  ceps00max=0.000237918   Af=0.008375
+w = 0.0243832    cwmax = 0.00473975Radius=0.005
+2  cepmax=0.0923785  ceps00max=0.000237918   Af=0.007525
+2  cepmax=0  ceps00max=0.000293772   Af=0.007525
+w = 0.0290217    cwmax = 0.00460058Radius=0.005
+2  cepmax=0.11578  ceps00max=0.000293772   Af=0.00425
+2  cepmax=0  ceps00max=0.000348247   Af=0.00425
+w = 0.0334762    cwmax = 0.00446256Radius=0.005
+2  cepmax=0.127928  ceps00max=0.000348247   Af=0.001975
+2  cepmax=0  ceps00max=0.000401377   Af=0.001975
+w = 0.0377544    cwmax = 0.00425013Radius=0.005
+2  cepmax=0.141562  ceps00max=0.000401377   Af=0.000875
+2  cepmax=0  ceps00max=0.000453194   Af=0.000875
+w = 0.0418278    cwmax = 0.00404938Radius=0.005
+2  cepmax=0.15325  ceps00max=0.000453194   Af=0.000375
+2  cepmax=0  ceps00max=0.000503733   Af=0.000375
+2  cepmax=0  ceps00max=0.000553023   Af=0.000375
+2  cepmax=0  ceps00max=0.000601097   Af=0.000375
+2  cepmax=0  ceps00max=0.000647983   Af=0.000375
+2  cepmax=0  ceps00max=0.000693712   Af=0.000375
+2  cepmax=0  ceps00max=0.000738312   Af=0.000375
+2  cepmax=0  ceps00max=0.00078181   Af=0.000375
+2  cepmax=0  ceps00max=0.000824235   Af=0.000375
+2  cepmax=0  ceps00max=0.000865612   Af=0.000375
+2  cepmax=0  ceps00max=0.000905967   Af=0.000375
+2  cepmax=0  ceps00max=0.000945326   Af=0.000375
+2  cepmax=0  ceps00max=0.000983713   Af=0.000375
+2  cepmax=0  ceps00max=0.00102115   Af=0.000375
+2  cepmax=0  ceps00max=0.00105767   Af=0.000375
+2  cepmax=0  ceps00max=0.00109328   Af=0.000375
+2  cepmax=0  ceps00max=0.00112801   Af=0.000375
+2  cepmax=0  ceps00max=0.00116189   Af=0.000375
+2  cepmax=0  ceps00max=0.00119493   Af=0.000375
+2  cepmax=0  ceps00max=0.00122715   Af=0.000375
+2  cepmax=0  ceps00max=0.00125858   Af=0.000375
+2  cepmax=0  ceps00max=0.00122205   Af=0.000375
+2  cepmax=0  ceps00max=0.00113015   Af=0.000375
+2  cepmax=0  ceps00max=0.00104052   Af=0.000375
+2  cepmax=0  ceps00max=0.000953099   Af=0.000375
+2  cepmax=0  ceps00max=0.000867837   Af=0.000375
+2  cepmax=0  ceps00max=0.000784681   Af=0.000375
+2  cepmax=0  ceps00max=0.000703577   Af=0.000375
+2  cepmax=0  ceps00max=0.000624477   Af=0.000375
+2  cepmax=0  ceps00max=0.000616172   Af=0.000375
+2  cepmax=0  ceps00max=0.00060336   Af=0.000375
+2  cepmax=0  ceps00max=0.000584588   Af=0.000375
+2  cepmax=0  ceps00max=0.000573184   Af=0.000375
+2  cepmax=0  ceps00max=0.000545283   Af=0.000375
+2  cepmax=0  ceps00max=0.000502064   Af=0.000375
+2  cepmax=0  ceps00max=0.000445154   Af=0.000375
+w = 0.045653    cwmax = 0.00382404Radius=0.005
+2  cepmax=0.162636  ceps00max=0.000445154   Af=0.0002
+2  cepmax=0  ceps00max=0.000483794   Af=0.0002
+w = 0.0492476    cwmax = 0.00355982Radius=0.005
+2  cepmax=0.171605  ceps00max=0.000483794   Af=0.000125
+2  cepmax=0  ceps00max=0.000533576   Af=0.000125
+2  cepmax=0  ceps00max=0.00058213   Af=0.000125
+2  cepmax=0  ceps00max=0.000629485   Af=0.000125
+2  cepmax=0  ceps00max=0.000658556   Af=0.000125
+2  cepmax=0  ceps00max=0.000669075   Af=0.000125
+2  cepmax=0  ceps00max=0.000661547   Af=0.000125
+2  cepmax=0  ceps00max=0.000637002   Af=0.000125
+2  cepmax=0  ceps00max=0.00064354   Af=0.000125
+2  cepmax=0  ceps00max=0.000689379   Af=0.000125
+2  cepmax=0  ceps00max=0.000734086   Af=0.000125
+2  cepmax=0  ceps00max=0.000777689   Af=0.000125
+2  cepmax=0  ceps00max=0.000820215   Af=0.000125
+2  cepmax=0  ceps00max=0.000861691   Af=0.000125
+2  cepmax=0  ceps00max=0.000902143   Af=0.000125
+2  cepmax=0  ceps00max=0.000941596   Af=0.000125
+2  cepmax=0  ceps00max=0.000980075   Af=0.000125
+2  cepmax=0  ceps00max=0.0010176   Af=0.000125
+2  cepmax=0  ceps00max=0.00105421   Af=0.000125
+2  cepmax=0  ceps00max=0.00108991   Af=0.000125
+2  cepmax=0  ceps00max=0.00112472   Af=0.000125
+2  cepmax=0  ceps00max=0.00115868   Af=0.000125
+2  cepmax=0  ceps00max=0.00117139   Af=0.000125
+2  cepmax=0  ceps00max=0.0011469   Af=0.000125
+2  cepmax=0  ceps00max=0.00108685   Af=0.000125
+2  cepmax=0  ceps00max=0.000998286   Af=0.000125
+2  cepmax=0  ceps00max=0.000911909   Af=0.000125
+2  cepmax=0  ceps00max=0.000827664   Af=0.000125
+2  cepmax=0  ceps00max=0.000745499   Af=0.000125
+2  cepmax=0  ceps00max=0.000665364   Af=0.000125
+2  cepmax=0  ceps00max=0.000587206   Af=0.000125
+2  cepmax=0  ceps00max=0.000510979   Af=0.000125
+2  cepmax=0  ceps00max=0.000509303   Af=0.000125
+2  cepmax=0  ceps00max=0.00049404   Af=0.000125
+w = 0.0525261    cwmax = 0.00331765Radius=0.005
+2  cepmax=0.159156  ceps00max=0.00049404   Af=0.000125
+2  cepmax=0  ceps00max=0.000501199   Af=0.000125
+2  cepmax=0  ceps00max=0.000550553   Af=0.000125
+2  cepmax=0  ceps00max=0.000556208   Af=0.000125
+2  cepmax=0  ceps00max=0.000596126   Af=0.000125
+2  cepmax=0  ceps00max=0.00057668   Af=0.000125
+2  cepmax=0  ceps00max=0.000515885   Af=0.000125
+2  cepmax=0  ceps00max=0.000538846   Af=0.000125
+2  cepmax=0  ceps00max=0.00054624   Af=0.000125
+2  cepmax=0  ceps00max=0.000538195   Af=0.000125
+2  cepmax=0  ceps00max=0.000521782   Af=0.000125
+2  cepmax=0  ceps00max=0.000538161   Af=0.000125
+2  cepmax=0  ceps00max=0.000510351   Af=0.000125
+2  cepmax=0  ceps00max=0.000559478   Af=0.000125
+2  cepmax=0  ceps00max=0.000607392   Af=0.000125
+2  cepmax=0  ceps00max=0.000654123   Af=0.000125
+2  cepmax=0  ceps00max=0.000645108   Af=0.000125
+2  cepmax=0  ceps00max=0.000573129   Af=0.000125
+2  cepmax=0  ceps00max=0.000556705   Af=0.000125
+2  cepmax=0  ceps00max=0.000532451   Af=0.000125
+2  cepmax=0  ceps00max=0.000493471   Af=0.000125
+w = 0.0555148    cwmax = 0.00299536Radius=0.005
+2  cepmax=0.169665  ceps00max=0.000493471   Af=5e-05
+2  cepmax=0  ceps00max=0.000419558   Af=5e-05
+w = 0.0582053    cwmax = 0.00270403Radius=0.005
+2  cepmax=0.15837  ceps00max=0.000419558   Af=5e-05
+2  cepmax=0  ceps00max=0.000389152   Af=5e-05
+w = 0.0606089    cwmax = 0.00240912Radius=0.005
+2  cepmax=0.159617  ceps00max=0.000389152   Af=0
+2  cepmax=0  ceps00max=0.000441272   Af=0
+w = 0.0627315    cwmax = 0.00214603Radius=0.005
+2  cepmax=0.172688  ceps00max=0.000441272   Af=0
+2  cepmax=0  ceps00max=0.000492105   Af=0
+w = 0.0645547    cwmax = 0.00227623Radius=0.005
+2  cepmax=0.183573  ceps00max=0.000492105   Af=0
+2  cepmax=0  ceps00max=0.000541683   Af=0
+2  cepmax=0  ceps00max=0.000572466   Af=0
+2  cepmax=0  ceps00max=0.000597832   Af=0
+2  cepmax=0  ceps00max=0.000615935   Af=0
+2  cepmax=0  ceps00max=0.000614749   Af=0
+2  cepmax=0  ceps00max=0.000622367   Af=0
+2  cepmax=0  ceps00max=0.000668729   Af=0
+2  cepmax=0  ceps00max=0.000713945   Af=0
+2  cepmax=0  ceps00max=0.000758045   Af=0
+2  cepmax=0  ceps00max=0.000801057   Af=0
+2  cepmax=0  ceps00max=0.000843006   Af=0
+2  cepmax=0  ceps00max=0.000883919   Af=0
+2  cepmax=0  ceps00max=0.000923823   Af=0
+2  cepmax=0  ceps00max=0.000962741   Af=0
+2  cepmax=0  ceps00max=0.0010007   Af=0
+2  cepmax=0  ceps00max=0.00103772   Af=0
+2  cepmax=0  ceps00max=0.00107382   Af=0
+2  cepmax=0  ceps00max=0.00110904   Af=0
+2  cepmax=0  ceps00max=0.00111338   Af=0
+2  cepmax=0  ceps00max=0.00108402   Af=0
+2  cepmax=0  ceps00max=0.00102234   Af=0
+2  cepmax=0  ceps00max=0.00101166   Af=0
+2  cepmax=0  ceps00max=0.00104841   Af=0
+2  cepmax=0  ceps00max=0.00108426   Af=0
+2  cepmax=0  ceps00max=0.00111921   Af=0
+2  cepmax=0  ceps00max=0.00115331   Af=0
+2  cepmax=0  ceps00max=0.00118656   Af=0
+2  cepmax=0  ceps00max=0.00121899   Af=0
+2  cepmax=0  ceps00max=0.00121442   Af=0
+2  cepmax=0  ceps00max=0.00112271   Af=0
+2  cepmax=0  ceps00max=0.00103326   Af=0
+2  cepmax=0  ceps00max=0.000946019   Af=0
+2  cepmax=0  ceps00max=0.000860932   Af=0
+2  cepmax=0  ceps00max=0.000777946   Af=0
+2  cepmax=0  ceps00max=0.000697009   Af=0
+2  cepmax=0  ceps00max=0.000618071   Af=0
+2  cepmax=0  ceps00max=0.000541082   Af=0
+2  cepmax=0  ceps00max=0.000465993   Af=0
+w = 0.0661455    cwmax = 0.00241157Radius=0.005
+2  cepmax=0.167947  ceps00max=0.000465993   Af=0
+2  cepmax=0  ceps00max=0.000406301   Af=0
+w = 0.0675259    cwmax = 0.00252701Radius=0.005
+2  cepmax=0.134999  ceps00max=0.000406301   Af=0
+2  cepmax=0  ceps00max=0.000393425   Af=0
+w = 0.0686985    cwmax = 0.00262057Radius=0.005
+2  cepmax=0.108385  ceps00max=0.000393425   Af=0
+2  cepmax=0  ceps00max=0.00044544   Af=0
+w = 0.0696796    cwmax = 0.00268817Radius=0.005
+2  cepmax=0.104488  ceps00max=0.00044544   Af=0
+2  cepmax=0  ceps00max=0.00049617   Af=0
+w = 0.0704749    cwmax = 0.00274225Radius=0.005
+2  cepmax=0.0950519  ceps00max=0.00049617   Af=0
+2  cepmax=0  ceps00max=0.000467843   Af=0
+w = 0.071136    cwmax = 0.00283028Radius=0.005
+2  cepmax=0.084413  ceps00max=0.000467843   Af=0
+2  cepmax=0  ceps00max=0.00051802   Af=0
+2  cepmax=0  ceps00max=0.000566958   Af=0
+2  cepmax=0  ceps00max=0.000614687   Af=0
+2  cepmax=0  ceps00max=0.000661238   Af=0
+2  cepmax=0  ceps00max=0.00070664   Af=0
+2  cepmax=0  ceps00max=0.00075092   Af=0
+2  cepmax=0  ceps00max=0.000794107   Af=0
+2  cepmax=0  ceps00max=0.000836228   Af=0
+2  cepmax=0  ceps00max=0.000865678   Af=0
+2  cepmax=0  ceps00max=0.000869094   Af=0
+2  cepmax=0  ceps00max=0.00084724   Af=0
+2  cepmax=0  ceps00max=0.000801635   Af=0
+2  cepmax=0  ceps00max=0.000734476   Af=0
+2  cepmax=0  ceps00max=0.000655539   Af=0
+2  cepmax=0  ceps00max=0.000701081   Af=0
+2  cepmax=0  ceps00max=0.000745499   Af=0
+2  cepmax=0  ceps00max=0.00078882   Af=0
+2  cepmax=0  ceps00max=0.000831071   Af=0
+2  cepmax=0  ceps00max=0.000872279   Af=0
+2  cepmax=0  ceps00max=0.00091247   Af=0
+2  cepmax=0  ceps00max=0.000951668   Af=0
+2  cepmax=0  ceps00max=0.000952067   Af=0
+2  cepmax=0  ceps00max=0.000866831   Af=0
+2  cepmax=0  ceps00max=0.000783699   Af=0
+2  cepmax=0  ceps00max=0.00070262   Af=0
+2  cepmax=0  ceps00max=0.000623543   Af=0
+2  cepmax=0  ceps00max=0.000546418   Af=0
+2  cepmax=0  ceps00max=0.000471198   Af=0
+w = 0.0717311    cwmax = 0.00285661Radius=0.005
+2  cepmax=0.0809472  ceps00max=0.000471198   Af=0
+2  cepmax=0  ceps00max=0.000473923   Af=0
+w = 0.0722812    cwmax = 0.00286288Radius=0.005
+2  cepmax=0.0910583  ceps00max=0.000473923   Af=0
+2  cepmax=0  ceps00max=0.000465678   Af=0
+w = 0.0727884    cwmax = 0.0028941Radius=0.005
+2  cepmax=0.0876478  ceps00max=0.000465678   Af=0
+2  cepmax=0  ceps00max=0.000437655   Af=0
+w = 0.0732491    cwmax = 0.00291959Radius=0.005
+2  cepmax=0.0951375  ceps00max=0.000437655   Af=0
+2  cepmax=0  ceps00max=0.000488577   Af=0
+w = 0.073707    cwmax = 0.00288439Radius=0.005
+2  cepmax=0.0932276  ceps00max=0.000488577   Af=0
+2  cepmax=0  ceps00max=0.000538242   Af=0
+2  cepmax=0  ceps00max=0.000586681   Af=0
+2  cepmax=0  ceps00max=0.000633923   Af=0
+2  cepmax=0  ceps00max=0.00066966   Af=0
+2  cepmax=0  ceps00max=0.000686472   Af=0
+2  cepmax=0  ceps00max=0.000684311   Af=0
+2  cepmax=0  ceps00max=0.000663674   Af=0
+2  cepmax=0  ceps00max=0.00062557   Af=0
+2  cepmax=0  ceps00max=0.000571487   Af=0
+2  cepmax=0  ceps00max=0.000503332   Af=0
+2  cepmax=0  ceps00max=0.000457967   Af=0
+w = 0.0742094    cwmax = 0.0028261Radius=0.005
+2  cepmax=0.0830957  ceps00max=0.000457967   Af=0
+2  cepmax=0  ceps00max=0.000508388   Af=0
+2  cepmax=0  ceps00max=0.000557563   Af=0
+2  cepmax=0  ceps00max=0.000605525   Af=0
+2  cepmax=0  ceps00max=0.000652302   Af=0
+2  cepmax=0  ceps00max=0.000697924   Af=0
+2  cepmax=0  ceps00max=0.00074242   Af=0
+2  cepmax=0  ceps00max=0.000785817   Af=0
+2  cepmax=0  ceps00max=0.000767768   Af=0
+2  cepmax=0  ceps00max=0.000687082   Af=0
+2  cepmax=0  ceps00max=0.000608389   Af=0
+2  cepmax=0  ceps00max=0.000531638   Af=0
+2  cepmax=0  ceps00max=0.000456783   Af=0
+w = 0.0747749    cwmax = 0.00277599Radius=0.005
+2  cepmax=0.0768679  ceps00max=0.000456783   Af=0
+2  cepmax=0  ceps00max=0.000383776   Af=0
+w = 0.0754462    cwmax = 0.0027745Radius=0.005
+2  cepmax=0.0759793  ceps00max=0.000383776   Af=0
+2  cepmax=0  ceps00max=0.000435882   Af=0
+w = 0.0762188    cwmax = 0.0027998Radius=0.005
+2  cepmax=0.0669908  ceps00max=0.000435882   Af=0
+2  cepmax=0  ceps00max=0.000478849   Af=0
+w = 0.0771085    cwmax = 0.00290315Radius=0.005
+2  cepmax=0.0613262  ceps00max=0.000478849   Af=0
+2  cepmax=0  ceps00max=0.000502515   Af=0
+2  cepmax=0  ceps00max=0.000511942   Af=0
+2  cepmax=0  ceps00max=0.000507156   Af=0
+2  cepmax=0  ceps00max=0.000488594   Af=0
+w = 0.0780992    cwmax = 0.00299388Radius=0.005
+2  cepmax=0.053971  ceps00max=0.000488594   Af=0
+2  cepmax=0  ceps00max=0.000454354   Af=0
+w = 0.0792667    cwmax = 0.00301278Radius=0.005
+2  cepmax=0.0482436  ceps00max=0.000454354   Af=0
+3  cepmax=0  ceps00max=0.000423527   Af=0
+w = 0.0805718    cwmax = 0.00306813Radius=0.0075
+3  cepmax=0.262635  ceps00max=0.000423527   Af=0.0003
+3  cepmax=0  ceps00max=0.000474798   Af=0.0003
+w = 0.0820377    cwmax = 0.00311843Radius=0.0075
+3  cepmax=0.174306  ceps00max=0.000474798   Af=0.00575
+3  cepmax=0  ceps00max=0.000448356   Af=0.00575
+w = 0.0836854    cwmax = 0.00318713Radius=0.0075
+3  cepmax=0.11032  ceps00max=0.000448356   Af=0.01055
+3  cepmax=0  ceps00max=0.000428563   Af=0.01055
+w = 0.0855192    cwmax = 0.00318135Radius=0.0075
+3  cepmax=0.0995874  ceps00max=0.000428563   Af=0.00905
+3  cepmax=0  ceps00max=0.000447825   Af=0.00905
+w = 0.0875197    cwmax = 0.00323832Radius=0.0075
+3  cepmax=0.127151  ceps00max=0.000447825   Af=0.00545
+3  cepmax=0  ceps00max=0.000485625   Af=0.00545
+w = 0.0896728    cwmax = 0.00322348Radius=0.0075
+3  cepmax=0.144785  ceps00max=0.000485625   Af=0.002725
+3  cepmax=0  ceps00max=0.000500369   Af=0.002725
+3  cepmax=0  ceps00max=0.000523333   Af=0.002725
+3  cepmax=0  ceps00max=0.00057214   Af=0.002725
+3  cepmax=0  ceps00max=0.000619741   Af=0.002725
+3  cepmax=0  ceps00max=0.000666167   Af=0.002725
+3  cepmax=0  ceps00max=0.000711447   Af=0.002725
+3  cepmax=0  ceps00max=0.000755609   Af=0.002725
+3  cepmax=0  ceps00max=0.000789128   Af=0.002725
+3  cepmax=0  ceps00max=0.000816604   Af=0.002725
+3  cepmax=0  ceps00max=0.000858169   Af=0.002725
+3  cepmax=0  ceps00max=0.000898708   Af=0.002725
+3  cepmax=0  ceps00max=0.000937932   Af=0.002725
+3  cepmax=0  ceps00max=0.000962072   Af=0.002725
+3  cepmax=0  ceps00max=0.00100005   Af=0.002725
+3  cepmax=0  ceps00max=0.00103708   Af=0.002725
+3  cepmax=0  ceps00max=0.000987145   Af=0.002725
+3  cepmax=0  ceps00max=0.000936573   Af=0.002725
+3  cepmax=0  ceps00max=0.000975176   Af=0.002725
+3  cepmax=0  ceps00max=0.000974389   Af=0.002725
+3  cepmax=0  ceps00max=0.000888602   Af=0.002725
+3  cepmax=0  ceps00max=0.000804932   Af=0.002725
+3  cepmax=0  ceps00max=0.000723329   Af=0.002725
+3  cepmax=0  ceps00max=0.000643741   Af=0.002725
+3  cepmax=0  ceps00max=0.000566118   Af=0.002725
+3  cepmax=0  ceps00max=0.000519907   Af=0.002725
+3  cepmax=0  ceps00max=0.000534386   Af=0.002725
+3  cepmax=0  ceps00max=0.000565577   Af=0.002725
+3  cepmax=0  ceps00max=0.000568471   Af=0.002725
+3  cepmax=0  ceps00max=0.000596639   Af=0.002725
+3  cepmax=0  ceps00max=0.000590614   Af=0.002725
+3  cepmax=0  ceps00max=0.000607373   Af=0.002725
+3  cepmax=0  ceps00max=0.000635743   Af=0.002725
+3  cepmax=0  ceps00max=0.000637057   Af=0.002725
+3  cepmax=0  ceps00max=0.000647785   Af=0.002725
+3  cepmax=0  ceps00max=0.000668186   Af=0.002725
+3  cepmax=0  ceps00max=0.000676225   Af=0.002725
+3  cepmax=0  ceps00max=0.000684995   Af=0.002725
+3  cepmax=0  ceps00max=0.000692614   Af=0.002725
+3  cepmax=0  ceps00max=0.000718703   Af=0.002725

@@ -351,13 +351,13 @@ void introduce_noise(double ** eta, ptrdiff_t local_n0, ptrdiff_t N1)
         double r;
         std::random_device rd;
         std::normal_distribution<double> distribution(0.0,0.08);
-        std::default_random_engine generator1(rd());
+        std::tr1::default_random_engine generator1(rd());
         r = distribution(generator1);
         eta[0][ndx] += 0.5*r;
-        std::default_random_engine generator2(rd());
+        std::tr1::default_random_engine generator2(rd());
         r = distribution(generator2);
         eta[1][ndx] += 0.5*r;
-        std::default_random_engine generator3(rd());
+        std::tr1::default_random_engine generator3(rd());
         r = distribution(generator3);
         eta[2][ndx] += 0.5*r;
         /*
@@ -1975,14 +1975,14 @@ int main(int argc, char ** argv)
             output("uy/"+zeroFill(frame), uy, N0, N1, local_n0);
  
        }
-       if (step == 1125)
+   /*    if (step == 1125)
 {
        H5File h5;
        h5.open("restart.h5", "w");
        output_restart("phi", phi, N0, N1, local_n0);
        h5.close();
        write_restart(step, w, dw, ddw, w_old, eta, eta_old, eps00, N0, N1, local_n0);       
-}
+}*/
     }
     
     fftw_mpi_cleanup();
